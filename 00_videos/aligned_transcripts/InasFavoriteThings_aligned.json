@@ -116,9 +116,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.1904761904761907,
+    "avg_token_depth": 2.3,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.25
+    "noun_to_pronoun_ratio": 0.25,
+    "segment_length": 4.8,
+    "content_word_ratio": 0.125,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "Have a very good time and don't forget the cocktails.",
@@ -202,9 +208,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 3.25,
+    "avg_token_depth": 3.5454545454545454,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2
+    "noun_to_pronoun_ratio": 2,
+    "segment_length": 3.040000000000001,
+    "content_word_ratio": 0.6,
+    "sentence_mood": "imperative",
+    "has_negation": 1,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Delicious! So today I'm going to show you around my kitchen. Well, it's my office really and I'm",
@@ -338,9 +350,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.75,
+    "avg_token_depth": 2.1,
     "filler_word_count": 2,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 5.6800000000000015,
+    "content_word_ratio": 0.3888888888888889,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "going to show you a few of my favorite things. This barn is actually a great luxury for me because I",
@@ -469,9 +487,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 0,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.272727272727273,
+    "avg_token_depth": 2.5,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.75
+    "noun_to_pronoun_ratio": 0.75,
+    "segment_length": 4.48,
+    "content_word_ratio": 0.42857142857142855,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "used to work and film in my house. That was crazy and so now I get to walk across the lawn",
@@ -595,9 +619,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 3,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.7727272727272727,
+    "avg_token_depth": 2.0526315789473686,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 6.239999999999998,
+    "content_word_ratio": 0.47619047619047616,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "and go to work and then when I'm done I can close the door and leave work behind me.",
@@ -718,9 +748,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 4,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.4761904761904763,
+    "avg_token_depth": 2.736842105263158,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 4.239999999999998,
+    "content_word_ratio": 0.42105263157894735,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "One of the things I do in my kitchen to make everything really simple is I don't have a",
@@ -837,9 +873,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.75,
+    "avg_token_depth": 2.8947368421052633,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.4
+    "noun_to_pronoun_ratio": 0.4,
+    "segment_length": 4.240000000000002,
+    "content_word_ratio": 0.3684210526315789,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "first",
+    "clause_count": 5
   },
   {
     "text": "lot of fancy equipment. I have just things that anybody else would have in their kitchen.",
@@ -948,9 +990,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.2777777777777777,
+    "avg_token_depth": 2.5625,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 4.560000000000002,
+    "content_word_ratio": 0.5625,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "Maybe a few more but not a lot. Nothing that anybody can have themselves. I'm going to start",
@@ -1072,9 +1120,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.9523809523809523,
+    "avg_token_depth": 2.2777777777777777,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.2
+    "noun_to_pronoun_ratio": 0.2,
+    "segment_length": 4.399999999999999,
+    "content_word_ratio": 0.3888888888888889,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "with three things on the counter that I like to have out all the time. First because they're better",
@@ -1199,9 +1253,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.4285714285714284,
+    "avg_token_depth": 2.6842105263157894,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 4.399999999999999,
+    "content_word_ratio": 0.3684210526315789,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "at room temperature like garlic and oranges, eggs are better at room temperature on baking,",
@@ -1307,9 +1367,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.0,
+    "avg_token_depth": 2.125,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 7
+    "noun_to_pronoun_ratio": 7,
+    "segment_length": 5.359999999999999,
+    "content_word_ratio": 0.6,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "and lemons are better at room temperature because they have more juice. I'm always picking up something",
@@ -1422,9 +1488,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.1052631578947367,
+    "avg_token_depth": 2.3529411764705883,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.3333333333333333
+    "noun_to_pronoun_ratio": 1.3333333333333333,
+    "segment_length": 4.160000000000004,
+    "content_word_ratio": 0.5294117647058824,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "and stirring or tasting something and I just buy antique silver spoons. They're really inexpensive",
@@ -1527,9 +1599,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 4,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.4705882352941178,
+    "avg_token_depth": 1.7857142857142858,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.6666666666666666
+    "noun_to_pronoun_ratio": 0.6666666666666666,
+    "segment_length": 5.599999999999994,
+    "content_word_ratio": 0.6,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "and I just put them in a jar and leave them on the counter. A few spatulas. And the third thing is",
@@ -1663,9 +1741,15 @@
     "imperative_type": "none",
     "num_conjunctions": 4,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.1666666666666665,
+    "avg_token_depth": 2.4761904761904763,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.3333333333333333
+    "noun_to_pronoun_ratio": 1.3333333333333333,
+    "segment_length": 4.960000000000008,
+    "content_word_ratio": 0.4090909090909091,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "butcher blocks. They're really important. I have lots of them and if you take care of them they last",
@@ -1789,9 +1873,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 2,
     "subordinate_clauses": 2,
-    "avg_token_depth": 1.9545454545454546,
+    "avg_token_depth": 2.263157894736842,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 4.319999999999993,
+    "content_word_ratio": 0.47368421052631576,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "forever. Two years ago when I thought about writing a cookbook that was going to come out in October",
@@ -1912,9 +2002,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.35,
+    "avg_token_depth": 1.5,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 4.8799999999999955,
+    "content_word_ratio": 0.42105263157894735,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "of 2020, I thought well there's going to be an election in November and everybody's going to be",
@@ -2038,9 +2134,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.4285714285714284,
+    "avg_token_depth": 2.55,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.3333333333333333
+    "noun_to_pronoun_ratio": 0.3333333333333333,
+    "segment_length": 4.400000000000006,
+    "content_word_ratio": 0.23529411764705882,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "stressed so I'm going to write a cookbook about comfort food and I thought well modern comfort",
@@ -2152,9 +2254,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 1,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.5555555555555556,
+    "avg_token_depth": 1.75,
     "filler_word_count": 2,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 4.719999999999999,
+    "content_word_ratio": 0.5882352941176471,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "food would be great because it's fresher, it's easier to make, it's kind of more delicious.",
@@ -2280,9 +2388,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 4,
-    "avg_token_depth": 2.227272727272727,
+    "avg_token_depth": 2.3333333333333335,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.6666666666666666
+    "noun_to_pronoun_ratio": 0.6666666666666666,
+    "segment_length": 4.960000000000008,
+    "content_word_ratio": 0.5625,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 4
   },
   {
     "text": "Little did I know. Turns out we all needed this right now. So Thanksgiving is actually usually",
@@ -2395,9 +2509,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.7894736842105263,
+    "avg_token_depth": 2.125,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 5.519999999999996,
+    "content_word_ratio": 0.5294117647058824,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "in the barn at this big long table but this year's going to be really different. It's going to be",
@@ -2530,9 +2650,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.217391304347826,
+    "avg_token_depth": 2.4285714285714284,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 3.0
+    "noun_to_pronoun_ratio": 3.0,
+    "segment_length": 4.319999999999993,
+    "content_word_ratio": 0.45,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 2
   },
   {
     "text": "Jeffrey and me in quarantine. I'll probably make a very small turkey and I think we're going to have",
@@ -2659,9 +2785,15 @@
     "imperative_type": "none",
     "num_conjunctions": 4,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.227272727272727,
+    "avg_token_depth": 2.45,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 4.800000000000011,
+    "content_word_ratio": 0.47368421052631576,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "a very good time. Okay now I'm going to take you to the stove and I'm going to show you four things",
@@ -2804,9 +2936,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.56,
+    "avg_token_depth": 1.7727272727272727,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.75
+    "noun_to_pronoun_ratio": 0.75,
+    "segment_length": 4.559999999999988,
+    "content_word_ratio": 0.45454545454545453,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "that I absolutely adore. The first thing's salt. I have three salts that I use all the time. First",
@@ -2938,9 +3076,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.6956521739130435,
+    "avg_token_depth": 2.0526315789473686,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 4.560000000000002,
+    "content_word_ratio": 0.5263157894736842,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 5
   },
   {
     "text": "one's kosher salt and I use diamond crystal kosher salt. It's actually different from other",
@@ -3053,9 +3197,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.6111111111111112,
+    "avg_token_depth": 1.8125,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.3333333333333333
+    "noun_to_pronoun_ratio": 1.3333333333333333,
+    "segment_length": 5.439999999999998,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "kosher salt. Some of them are much saltier and so you have to be careful if you use a different",
@@ -3179,9 +3329,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 2,
-    "avg_token_depth": 1.7142857142857142,
+    "avg_token_depth": 1.894736842105263,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.25
+    "noun_to_pronoun_ratio": 0.25,
+    "segment_length": 4.319999999999993,
+    "content_word_ratio": 0.45,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 3
   },
   {
     "text": "kind. The second one is French sea salt. It's called fleur de sel. I use it to finish things.",
@@ -3316,9 +3472,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.6666666666666667,
+    "avg_token_depth": 2.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.6666666666666667
+    "noun_to_pronoun_ratio": 1.6666666666666667,
+    "segment_length": 5.52000000000001,
+    "content_word_ratio": 0.5263157894736842,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "It's kind of just lightly briny and the third one I use from time to time is mold and flake sea salt",
@@ -3451,9 +3613,15 @@
     "imperative_type": "none",
     "num_conjunctions": 4,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.5652173913043477,
+    "avg_token_depth": 2.6818181818181817,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 3.0
+    "noun_to_pronoun_ratio": 3.0,
+    "segment_length": 6.319999999999993,
+    "content_word_ratio": 0.5909090909090909,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "and what I like is when I'm doing like a pastry crust like a chicken pot pie or something I'll",
@@ -3576,9 +3744,15 @@
     "imperative_type": "none",
     "num_conjunctions": 3,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.9545454545454546,
+    "avg_token_depth": 2.15,
     "filler_word_count": 3,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 5.200000000000017,
+    "content_word_ratio": 0.35,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "brush it with egg wash and just sprinkle it with salt and pepper and that flake salt just looks",
@@ -3690,9 +3864,15 @@
     "imperative_type": "none",
     "num_conjunctions": 5,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.789473684210526,
+    "avg_token_depth": 2.9444444444444446,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 3.0
+    "noun_to_pronoun_ratio": 3.0,
+    "segment_length": 5.359999999999985,
+    "content_word_ratio": 0.5789473684210527,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 2
   },
   {
     "text": "gorgeous and that crunchiness tastes great. So three salts I always use and then these are really",
@@ -3802,9 +3982,15 @@
     "imperative_type": "none",
     "num_conjunctions": 3,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.2777777777777777,
+    "avg_token_depth": 2.5625,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 6.240000000000009,
+    "content_word_ratio": 0.5882352941176471,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "important. Timers. I have lots of timers. I don't want to put something in the oven and forget about",
@@ -3935,9 +4121,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.608695652173913,
+    "avg_token_depth": 1.9473684210526316,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.3333333333333333
+    "noun_to_pronoun_ratio": 1.3333333333333333,
+    "segment_length": 4.47999999999999,
+    "content_word_ratio": 0.47368421052631576,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "it which I can do and the next thing is I have lots of oven thermometers because no matter what",
@@ -4054,9 +4246,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 3,
-    "avg_token_depth": 2.85,
+    "avg_token_depth": 3.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.6
+    "noun_to_pronoun_ratio": 0.6,
+    "segment_length": 6.0800000000000125,
+    "content_word_ratio": 0.45,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "it says on the dial the oven itself could be totally different. Okay now I'm going to give you a",
@@ -4185,9 +4383,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.227272727272727,
+    "avg_token_depth": 2.45,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.2
+    "noun_to_pronoun_ratio": 0.2,
+    "segment_length": 5.199999999999989,
+    "content_word_ratio": 0.35,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "little tour of the pantry. I have food on one side and I have equipment on the other side. I'll show",
@@ -4322,9 +4526,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.9583333333333333,
+    "avg_token_depth": 2.238095238095238,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 4.240000000000009,
+    "content_word_ratio": 0.5238095238095238,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "you. Oh I forgot I have to stop. So this is all the equipment and look who's a Dutch ovens and",
@@ -4458,9 +4668,15 @@
     "imperative_type": "none",
     "num_conjunctions": 3,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.2083333333333335,
+    "avg_token_depth": 2.5238095238095237,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.4
+    "noun_to_pronoun_ratio": 0.4,
+    "segment_length": 10.47999999999999,
+    "content_word_ratio": 0.38095238095238093,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 5
   },
   {
     "text": "dishes that I use a lot and big pans, knife sharpeners, everything you need and then this is the",
@@ -4582,9 +4798,15 @@
     "imperative_type": "none",
     "num_conjunctions": 3,
     "subordinate_clauses": 0,
-    "avg_token_depth": 3.7142857142857144,
+    "avg_token_depth": 3.9,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.8333333333333334
+    "noun_to_pronoun_ratio": 0.8333333333333334,
+    "segment_length": 6.560000000000002,
+    "content_word_ratio": 0.47368421052631576,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "pantry side. This is all the food. It's not the neatest pantry in the world but it's not the worst.",
@@ -4720,9 +4942,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.16,
+    "avg_token_depth": 2.4545454545454546,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.6666666666666667
+    "noun_to_pronoun_ratio": 1.6666666666666667,
+    "segment_length": 4.560000000000002,
+    "content_word_ratio": 0.35,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "third",
+    "clause_count": 3
   },
   {
     "text": "Okay I'm back. Let me show you some things over here that I love. One is my kitchen scale. I use",
@@ -4861,9 +5089,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.92,
+    "avg_token_depth": 2.2857142857142856,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.42857142857142855
+    "noun_to_pronoun_ratio": 0.42857142857142855,
+    "segment_length": 4.9599999999999795,
+    "content_word_ratio": 0.47619047619047616,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 6
   },
   {
     "text": "it all the time. So if something says five ounces and you want it to be really five ounces it's really",
@@ -4993,9 +5227,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 2,
-    "avg_token_depth": 1.8695652173913044,
+    "avg_token_depth": 2.0476190476190474,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.6
+    "noun_to_pronoun_ratio": 0.6,
+    "segment_length": 5.920000000000016,
+    "content_word_ratio": 0.38095238095238093,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 4
   },
   {
     "text": "helpful to have a kitchen scale so that's a good one. Not very expensive and you can buy them anywhere.",
@@ -5128,9 +5368,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.4782608695652173,
+    "avg_token_depth": 2.7142857142857144,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.6666666666666666
+    "noun_to_pronoun_ratio": 0.6666666666666666,
+    "segment_length": 5.199999999999989,
+    "content_word_ratio": 0.45,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "none",
+    "clause_count": 3
   },
   {
     "text": "The next thing I love and this is maybe not something everybody has is a food meal and what I",
@@ -5249,9 +5495,15 @@
     "imperative_type": "none",
     "num_conjunctions": 3,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.5,
+    "avg_token_depth": 2.6315789473684212,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 5.1200000000000045,
+    "content_word_ratio": 0.35,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "like is something ends up with texture so it's not just like baby food. Potatoes I actually like",
@@ -5369,9 +5621,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.55,
+    "avg_token_depth": 1.8235294117647058,
     "filler_word_count": 4,
-    "noun_to_pronoun_ratio": 1.3333333333333333
+    "noun_to_pronoun_ratio": 1.3333333333333333,
+    "segment_length": 5.1200000000000045,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "finely pureed so that's different. Okay that's my food meal. I just adore it and two things for",
@@ -5500,9 +5758,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 2,
-    "avg_token_depth": 1.8181818181818181,
+    "avg_token_depth": 2.1052631578947367,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.6
+    "noun_to_pronoun_ratio": 0.6,
+    "segment_length": 6.240000000000009,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "easy cleanup. One is parchment paper and I love to line sheet pans with parchment paper so that",
@@ -5620,9 +5884,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.4736842105263157,
+    "avg_token_depth": 1.75,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 7.0
+    "noun_to_pronoun_ratio": 7.0,
+    "segment_length": 6.719999999999999,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "all you have to do is throw the paper out and you've got a nice clean pan. Well you have to put",
@@ -5757,9 +6027,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.2916666666666665,
+    "avg_token_depth": 2.5,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.25
+    "noun_to_pronoun_ratio": 0.25,
+    "segment_length": 3.519999999999982,
+    "content_word_ratio": 0.4090909090909091,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 3
   },
   {
     "text": "it in the dishwasher but it's not like crusty and this is the other cleanup thing that I adore",
@@ -5876,9 +6152,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.5,
+    "avg_token_depth": 1.7647058823529411,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.8
+    "noun_to_pronoun_ratio": 0.8,
+    "segment_length": 4.640000000000015,
+    "content_word_ratio": 0.3157894736842105,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "which is my wrap and snap. Instead of fighting with that box all you do is just pull this out",
@@ -5996,9 +6278,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.0,
+    "avg_token_depth": 2.210526315789474,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.4
+    "noun_to_pronoun_ratio": 0.4,
+    "segment_length": 5.9199999999999875,
+    "content_word_ratio": 0.4,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 3
   },
   {
     "text": "really simply just cut it off and you have a really simple piece of plastic wrap. I use it all the",
@@ -6122,9 +6410,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.0454545454545454,
+    "avg_token_depth": 2.25,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.4
+    "noun_to_pronoun_ratio": 0.4,
+    "segment_length": 6.159999999999968,
+    "content_word_ratio": 0.5238095238095238,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "time. It's just great. Okay I've got one more thing to show you. Actually I've got two more things to",
@@ -6270,9 +6564,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.8076923076923077,
+    "avg_token_depth": 2.1363636363636362,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.75
+    "noun_to_pronoun_ratio": 0.75,
+    "segment_length": 4.560000000000002,
+    "content_word_ratio": 0.55,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 5
   },
   {
     "text": "show you. First I'm going to show you this and it's not for ice cream. What I do is I use this",
@@ -6413,9 +6713,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 1,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.4230769230769231,
+    "avg_token_depth": 1.6818181818181819,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.2222222222222222
+    "noun_to_pronoun_ratio": 0.2222222222222222,
+    "segment_length": 5.2000000000000455,
+    "content_word_ratio": 0.3181818181818182,
+    "sentence_mood": "imperative",
+    "has_negation": 1,
+    "pronoun_type": "first",
+    "clause_count": 5
   },
   {
     "text": "just a regular ice cream scoop for muffins, for meatballs, for anything that's round and shaped",
@@ -6530,9 +6836,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.473684210526316,
+    "avg_token_depth": 2.611111111111111,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.5
+    "noun_to_pronoun_ratio": 2.5,
+    "segment_length": 5.680000000000007,
+    "content_word_ratio": 0.5625,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "like that and it makes perfectly proportioned meatballs and muffins and it looks very professional.",
@@ -6633,9 +6945,15 @@
     "imperative_type": "none",
     "num_conjunctions": 5,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.3125,
+    "avg_token_depth": 2.466666666666667,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.6666666666666666
+    "noun_to_pronoun_ratio": 0.6666666666666666,
+    "segment_length": 6.239999999999952,
+    "content_word_ratio": 0.5333333333333333,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "It's just an ice cream scoop you can buy in the homeware store. Okay one more thing and it's my",
@@ -6769,9 +7087,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.0869565217391304,
+    "avg_token_depth": 2.4,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.5
+    "noun_to_pronoun_ratio": 1.5,
+    "segment_length": 4.480000000000018,
+    "content_word_ratio": 0.45,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 4
   },
   {
     "text": "favorite thing in the kitchen. I'll be right back. And I'm looking for good vanilla, homemade vanilla.",
@@ -6906,9 +7230,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.7391304347826086,
+    "avg_token_depth": 2.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 7.759999999999991,
+    "content_word_ratio": 0.5882352941176471,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "This is just what I'm looking for. Might tell you about this. Okay this is it. This is my homemade",
@@ -7039,9 +7369,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.7083333333333333,
+    "avg_token_depth": 2.05,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.1111111111111111
+    "noun_to_pronoun_ratio": 0.1111111111111111,
+    "segment_length": 7.1200000000000045,
+    "content_word_ratio": 0.2,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 5
   },
   {
     "text": "vanilla. This has been going for 35 years. What I did was I took a jar and I put vanilla beans in it.",
@@ -7184,9 +7520,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.5384615384615385,
+    "avg_token_depth": 1.8181818181818181,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.8333333333333334
+    "noun_to_pronoun_ratio": 0.8333333333333334,
+    "segment_length": 5.840000000000032,
+    "content_word_ratio": 0.36363636363636365,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 5
   },
   {
     "text": "They're expensive but you don't have to do it very often and then I poured in vodka. You use",
@@ -7311,9 +7653,15 @@
     "imperative_type": "none",
     "num_conjunctions": 4,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.727272727272727,
+    "avg_token_depth": 3.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.2
+    "noun_to_pronoun_ratio": 0.2,
+    "segment_length": 4.319999999999993,
+    "content_word_ratio": 0.47368421052631576,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "very inexpensive vodka. It's no time for grey goose and I filled the jar with vanilla and vodka and",
@@ -7437,9 +7785,15 @@
     "imperative_type": "none",
     "num_conjunctions": 5,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.0476190476190474,
+    "avg_token_depth": 2.263157894736842,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 3.0
+    "noun_to_pronoun_ratio": 3.0,
+    "segment_length": 7.199999999999989,
+    "content_word_ratio": 0.5263157894736842,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "the liquid after about four or six months becomes vanilla extract and the smell is just amazing.",
@@ -7547,9 +7901,15 @@
     "imperative_type": "none",
     "num_conjunctions": 4,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.5555555555555554,
+    "avg_token_depth": 2.7058823529411766,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 5
+    "noun_to_pronoun_ratio": 5,
+    "segment_length": 6.240000000000009,
+    "content_word_ratio": 0.5294117647058824,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "And also the vanilla beans, the seeds inside become liquid so you just snip off the top and you squeeze",
@@ -7671,9 +8031,15 @@
     "imperative_type": "none",
     "num_conjunctions": 3,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.4285714285714284,
+    "avg_token_depth": 2.55,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 5.839999999999975,
+    "content_word_ratio": 0.55,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "the beans out. So if you're making something that like a vanilla pudding or a vanilla cake,",
@@ -7792,9 +8158,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.15,
+    "avg_token_depth": 2.388888888888889,
     "filler_word_count": 2,
-    "noun_to_pronoun_ratio": 1.6666666666666667
+    "noun_to_pronoun_ratio": 1.6666666666666667,
+    "segment_length": 4.720000000000027,
+    "content_word_ratio": 0.4117647058823529,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 3
   },
   {
     "text": "you can see the seeds in it and it just is so flavorful. It's like that kind of bitter thing",
@@ -7920,9 +8292,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.7727272727272727,
+    "avg_token_depth": 1.95,
     "filler_word_count": 2,
-    "noun_to_pronoun_ratio": 0.75
+    "noun_to_pronoun_ratio": 0.75,
+    "segment_length": 4.8799999999999955,
+    "content_word_ratio": 0.4,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 2
   },
   {
     "text": "that's great with something sweet. So that's my vanilla and it's really easy to make. Merry Christmas",
@@ -8048,9 +8426,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.6818181818181819,
+    "avg_token_depth": 1.9473684210526316,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.2
+    "noun_to_pronoun_ratio": 0.2,
+    "segment_length": 5.439999999999998,
+    "content_word_ratio": 0.4117647058823529,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 3
   },
   {
     "text": "gift. Okay that's a tour of my kitchen. I know this is going to be unusual Thanksgiving but I think",
@@ -8185,9 +8569,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.6521739130434783,
+    "avg_token_depth": 2.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.6
+    "noun_to_pronoun_ratio": 0.6,
+    "segment_length": 5.1200000000000045,
+    "content_word_ratio": 0.35,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 5
   },
   {
     "text": "it's important to find joy in the small things, the simple things and to make it a real celebration",
@@ -8310,9 +8700,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 1,
-    "avg_token_depth": 3.7142857142857144,
+    "avg_token_depth": 3.9,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 5.439999999999998,
+    "content_word_ratio": 0.5263157894736842,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 2
   },
   {
     "text": "because the holidays really kind of mark important dates and if we lose that we'll lose the whole thing",
@@ -8428,9 +8824,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 4,
-    "avg_token_depth": 2.55,
+    "avg_token_depth": 2.6842105263157894,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.5
+    "noun_to_pronoun_ratio": 1.5,
+    "segment_length": 6.0,
+    "content_word_ratio": 0.5789473684210527,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "and so have a wonderful Thanksgiving. Cook a lot, share with everybody and have a very good time.",
@@ -8552,9 +8954,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 4,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.5714285714285716,
+    "avg_token_depth": 2.8421052631578947,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 3.0
+    "noun_to_pronoun_ratio": 3.0,
+    "segment_length": 5.839999999999975,
+    "content_word_ratio": 0.6111111111111112,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "Happy Thanksgiving everybody.",
@@ -8599,9 +9007,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 0.75,
+    "avg_token_depth": 1.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.2800000000000296,
+    "content_word_ratio": 0.0,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Is that all right? That was so great. Okay good.",
@@ -8687,8 +9101,14 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.3846153846153846,
+    "avg_token_depth": 1.8,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 6.32000000000005,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 3
   }
 ]

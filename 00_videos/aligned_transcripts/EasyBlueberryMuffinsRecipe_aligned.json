@@ -134,9 +134,15 @@
     "imperative_type": "none",
     "num_conjunctions": 4,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.7083333333333335,
+    "avg_token_depth": 2.9545454545454546,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 7.1,
+    "content_word_ratio": 0.42105263157894735,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "They're loaded with a ton of blueberries and they're topped the simple and delicious brown sugar streusel.",
@@ -254,9 +260,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 4,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.95,
+    "avg_token_depth": 3.1052631578947367,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 5.92,
+    "content_word_ratio": 0.5294117647058824,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "So you want to start off by combining all of your dry ingredients.",
@@ -348,9 +360,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.0714285714285716,
+    "avg_token_depth": 2.230769230769231,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.3333333333333333
+    "noun_to_pronoun_ratio": 0.3333333333333333,
+    "segment_length": 2.84,
+    "content_word_ratio": 0.46153846153846156,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "So in a large bowl combine two cups of all-purpose flour, a teaspoon of baking powder,",
@@ -470,9 +488,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.95,
+    "avg_token_depth": 3.1052631578947367,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 6
+    "noun_to_pronoun_ratio": 6,
+    "segment_length": 5.32,
+    "content_word_ratio": 0.5882352941176471,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "half a teaspoon of baking soda, and a quarter teaspoon of salt.",
@@ -564,9 +588,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.7857142857142856,
+    "avg_token_depth": 3.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 5
+    "noun_to_pronoun_ratio": 5,
+    "segment_length": 3.8800000000000026,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Then whisk it all together and reserve one tablespoon of that flour mixture.",
@@ -660,9 +690,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.642857142857143,
+    "avg_token_depth": 2.8461538461538463,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.5
+    "noun_to_pronoun_ratio": 1.5,
+    "segment_length": 5.16,
+    "content_word_ratio": 0.5384615384615384,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "Now mix that reserved tablespoon of the flour mixture with one and a half cups of fresh blueberries.",
@@ -781,9 +817,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 3.0,
+    "avg_token_depth": 3.1666666666666665,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 6
+    "noun_to_pronoun_ratio": 6,
+    "segment_length": 4.880000000000003,
+    "content_word_ratio": 0.5555555555555556,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "The reason why we add that little tiny bit of flour to those blueberries is when we add them to the batter,",
@@ -913,9 +955,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.5217391304347827,
+    "avg_token_depth": 2.6363636363636362,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.6666666666666667
+    "noun_to_pronoun_ratio": 1.6666666666666667,
+    "segment_length": 5.079999999999998,
+    "content_word_ratio": 0.4090909090909091,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "during baking the blueberries don't sink as fast when they're coated in flour.",
@@ -1016,9 +1064,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.4375,
+    "avg_token_depth": 2.6,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 3.4000000000000057,
+    "content_word_ratio": 0.5384615384615384,
+    "sentence_mood": "imperative",
+    "has_negation": 1,
+    "pronoun_type": "third",
+    "clause_count": 2
   },
   {
     "text": "Now add three eggs into a large bowl and whisk them on high speed using an electric mixer.",
@@ -1135,9 +1189,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 2,
     "subordinate_clauses": 1,
-    "avg_token_depth": 3.263157894736842,
+    "avg_token_depth": 3.4444444444444446,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 4.0
+    "noun_to_pronoun_ratio": 4.0,
+    "segment_length": 5.039999999999999,
+    "content_word_ratio": 0.6111111111111112,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "So you want to do this for about three minutes until the eggs become fluffy and pale.",
@@ -1249,9 +1309,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.611111111111111,
+    "avg_token_depth": 2.764705882352941,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 4.399999999999999,
+    "content_word_ratio": 0.5294117647058824,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "Then continue beating the eggs as you slowly add one cup of granulated sugar.",
@@ -1351,9 +1417,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 0,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.466666666666667,
+    "avg_token_depth": 2.642857142857143,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 3.0
+    "noun_to_pronoun_ratio": 3.0,
+    "segment_length": 4.399999999999999,
+    "content_word_ratio": 0.6428571428571429,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "You want to keep beating those eggs for about three more minutes.",
@@ -1443,9 +1515,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.3076923076923075,
+    "avg_token_depth": 2.5,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 3.0,
+    "content_word_ratio": 0.5833333333333334,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "So the key to really fluffy muffins is well beaten eggs.",
@@ -1529,9 +1607,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.3333333333333335,
+    "avg_token_depth": 2.5454545454545454,
     "filler_word_count": 2,
-    "noun_to_pronoun_ratio": 3
+    "noun_to_pronoun_ratio": 3,
+    "segment_length": 3.3599999999999994,
+    "content_word_ratio": 0.7272727272727273,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Now you want to add a teaspoon of vanilla extract and a tablespoon of fresh lemon juice.",
@@ -1642,9 +1726,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.5555555555555554,
+    "avg_token_depth": 2.7058823529411766,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 6.0
+    "noun_to_pronoun_ratio": 6.0,
+    "segment_length": 5.039999999999992,
+    "content_word_ratio": 0.5882352941176471,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Now continue beating the egg mixture as you slowly add three quarter cups of heavy cream.",
@@ -1754,9 +1844,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 0,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.6470588235294117,
+    "avg_token_depth": 2.8125,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 5.0
+    "noun_to_pronoun_ratio": 5.0,
+    "segment_length": 6.0,
+    "content_word_ratio": 0.6875,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "Now you can begin adding your dry ingredients, but don't do it all at once.",
@@ -1866,9 +1962,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 3.111111111111111,
+    "avg_token_depth": 3.2941176470588234,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.25
+    "noun_to_pronoun_ratio": 0.25,
+    "segment_length": 4.0,
+    "content_word_ratio": 0.4666666666666667,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "So get a sifter out and then add about a third of that flour mixture at a time with mixing in between.",
@@ -1996,9 +2098,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.9565217391304346,
+    "avg_token_depth": 3.090909090909091,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 5
+    "noun_to_pronoun_ratio": 5,
+    "segment_length": 6.0,
+    "content_word_ratio": 0.45454545454545453,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Once you've got all of your dry ingredients well combined into the muffin batter, continue beating with your electric mixer as you slowly gradually add in four tablespoons of melted unsalted butter.",
@@ -2187,9 +2295,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 0,
     "subordinate_clauses": 5,
-    "avg_token_depth": 3.2857142857142856,
+    "avg_token_depth": 3.3823529411764706,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 1.2
+    "noun_to_pronoun_ratio": 1.2,
+    "segment_length": 17.0,
+    "content_word_ratio": 0.5625,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 4
   },
   {
     "text": "Alright, now the last and final step is adding in those blueberries.",
@@ -2281,9 +2395,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 3.2142857142857144,
+    "avg_token_depth": 3.4615384615384617,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2
+    "noun_to_pronoun_ratio": 2,
+    "segment_length": 3.0,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "And at this point you want to fold it in with a spatula.",
@@ -2373,9 +2493,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.357142857142857,
+    "avg_token_depth": 2.5384615384615383,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 3.0,
+    "content_word_ratio": 0.38461538461538464,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "Now line your muffin tin with cupcake liners and begin scooping the batter out using a large cookie scoop.",
@@ -2492,9 +2618,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 2,
     "subordinate_clauses": 1,
-    "avg_token_depth": 3.25,
+    "avg_token_depth": 3.4210526315789473,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 7.0
+    "noun_to_pronoun_ratio": 7.0,
+    "segment_length": 5.0,
+    "content_word_ratio": 0.6842105263157895,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "I like to top my blueberry muffins with a few extra blueberries on top, but that's totally optional.",
@@ -2617,9 +2749,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 3.5238095238095237,
+    "avg_token_depth": 3.7,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 1.3333333333333333
+    "noun_to_pronoun_ratio": 1.3333333333333333,
+    "segment_length": 5.0,
+    "content_word_ratio": 0.5555555555555556,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "And before the muffins go into the oven, you want to make that simple streusel.",
@@ -2726,9 +2864,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.5294117647058822,
+    "avg_token_depth": 2.6875,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 3.0
+    "noun_to_pronoun_ratio": 3.0,
+    "segment_length": 4.0,
+    "content_word_ratio": 0.4666666666666667,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "In a small bowl, combine one tablespoon of unsalted cold cubed butter, two tablespoons of all-purpose flour, a pinch of salt, a teaspoon of cinnamon, and three tablespoons of brown sugar.",
@@ -2930,9 +3074,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 3.6153846153846154,
+    "avg_token_depth": 3.710526315789474,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 12
+    "noun_to_pronoun_ratio": 12,
+    "segment_length": 12.0,
+    "content_word_ratio": 0.53125,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Mash that all together using a fork until the ingredients are well combined and they have a crumbly texture to them.",
@@ -3056,9 +3206,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 2,
-    "avg_token_depth": 3.0454545454545454,
+    "avg_token_depth": 3.1904761904761907,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 1.3333333333333333
+    "noun_to_pronoun_ratio": 1.3333333333333333,
+    "segment_length": 6.0,
+    "content_word_ratio": 0.47619047619047616,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 3
   },
   {
     "text": "Now top the blueberry muffins with the streusel topping and bake them in the oven at 350 degrees Fahrenheit for about 35 minutes.",
@@ -3194,9 +3350,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 3.5416666666666665,
+    "avg_token_depth": 3.6956521739130435,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 7.0
+    "noun_to_pronoun_ratio": 7.0,
+    "segment_length": 7.0,
+    "content_word_ratio": 0.5238095238095238,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "I hope you guys enjoyed watching this video and if you did please be sure to share, like, and subscribe to our channel so you guys never miss out on any of our new recipes. See you next time!",
@@ -3409,8 +3571,14 @@
     "imperative_type": "procedural",
     "num_conjunctions": 4,
     "subordinate_clauses": 4,
-    "avg_token_depth": 3.186046511627907,
+    "avg_token_depth": 3.341463414634146,
     "filler_word_count": 2,
-    "noun_to_pronoun_ratio": 0.75
+    "noun_to_pronoun_ratio": 0.75,
+    "segment_length": 20.0,
+    "content_word_ratio": 0.4358974358974359,
+    "sentence_mood": "imperative",
+    "has_negation": 1,
+    "pronoun_type": "first",
+    "clause_count": 4
   }
 ]

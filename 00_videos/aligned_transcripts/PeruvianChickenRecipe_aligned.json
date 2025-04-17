@@ -72,9 +72,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.7,
+    "avg_token_depth": 1.8888888888888888,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 3.0
+    "noun_to_pronoun_ratio": 3.0,
+    "segment_length": 6.34,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "Smoking like a cat owner, right?",
@@ -139,9 +145,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.875,
+    "avg_token_depth": 2.142857142857143,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 2
+    "noun_to_pronoun_ratio": 2,
+    "segment_length": 5.880000000000001,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "Hi, I'm Melissa Clark, and I'm here in the NIT cooking studio kitchen to make Peruvian",
@@ -260,9 +272,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.5,
+    "avg_token_depth": 2.6315789473684212,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.5
+    "noun_to_pronoun_ratio": 1.5,
+    "segment_length": 5.040000000000001,
+    "content_word_ratio": 0.375,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "chicken.",
@@ -297,9 +315,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 0.5,
+    "avg_token_depth": 1.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1
+    "noun_to_pronoun_ratio": 1,
+    "segment_length": 1.0,
+    "content_word_ratio": 1.0,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "In Peru, they don't call it Peruvian chicken, obviously.",
@@ -388,9 +412,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.8461538461538463,
+    "avg_token_depth": 3.0833333333333335,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 2.3199999999999967,
+    "content_word_ratio": 0.4444444444444444,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "Peruvian chicken is the American term for what's basically a spit roasted chicken that",
@@ -485,9 +515,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.4,
+    "avg_token_depth": 2.5714285714285716,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 4.560000000000002,
+    "content_word_ratio": 0.5714285714285714,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "you find all over Latin America.",
@@ -546,9 +582,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.7142857142857142,
+    "avg_token_depth": 2.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.9600000000000009,
+    "content_word_ratio": 0.3333333333333333,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "The key to making this chicken at home in your oven is to use really high heat.",
@@ -658,9 +700,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.3333333333333335,
+    "avg_token_depth": 2.4705882352941178,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 5.0
+    "noun_to_pronoun_ratio": 5.0,
+    "segment_length": 3.4399999999999977,
+    "content_word_ratio": 0.5294117647058824,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "What you're trying to do is get a burnished crisp skin, which is the hallmark of a delicious",
@@ -776,9 +824,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.85,
+    "avg_token_depth": 1.9473684210526316,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.6666666666666666
+    "noun_to_pronoun_ratio": 0.6666666666666666,
+    "segment_length": 4.960000000000001,
+    "content_word_ratio": 0.4444444444444444,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "Peruvian chicken.",
@@ -819,9 +873,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 0.6666666666666666,
+    "avg_token_depth": 1.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1
+    "noun_to_pronoun_ratio": 1,
+    "segment_length": 4.079999999999998,
+    "content_word_ratio": 1.0,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "What makes Peruvian chicken specific is that the chilies that it's marinated in come from",
@@ -920,9 +980,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.75,
+    "avg_token_depth": 1.8666666666666667,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.3333333333333333
+    "noun_to_pronoun_ratio": 1.3333333333333333,
+    "segment_length": 5.399999999999999,
+    "content_word_ratio": 0.4666666666666667,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 3
   },
   {
     "text": "Peru.",
@@ -957,9 +1023,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 0.5,
+    "avg_token_depth": 1.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0
+    "noun_to_pronoun_ratio": 0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.0,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "There are two distinct kinds, ahi amarillo and ahi panca.",
@@ -1043,9 +1115,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.5,
+    "avg_token_depth": 2.727272727272727,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 3.0
+    "noun_to_pronoun_ratio": 3.0,
+    "segment_length": 3.8000000000000043,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "In order to get the sort of grilled vibe of the chicken, you don't want to cook it whole.",
@@ -1169,9 +1247,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.3636363636363638,
+    "avg_token_depth": 2.4761904761904763,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 6.039999999999999,
+    "content_word_ratio": 0.47368421052631576,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "third",
+    "clause_count": 2
   },
   {
     "text": "You want to cut it in half.",
@@ -1235,9 +1319,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.75,
+    "avg_token_depth": 2.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 1.6400000000000006,
+    "content_word_ratio": 0.42857142857142855,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "I'm going to use some shears here.",
@@ -1307,9 +1397,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.0,
+    "avg_token_depth": 2.25,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 1.7999999999999972,
+    "content_word_ratio": 0.5714285714285714,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "You can definitely have your butcher do this if you don't want to deal with the chicken,",
@@ -1421,9 +1517,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 3,
-    "avg_token_depth": 2.789473684210526,
+    "avg_token_depth": 2.9444444444444446,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 3.440000000000005,
+    "content_word_ratio": 0.4117647058823529,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "none",
+    "clause_count": 3
   },
   {
     "text": "but it's so easy.",
@@ -1478,9 +1580,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.5,
+    "avg_token_depth": 1.8,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "I thought I would just show you how to do it in case you have a whole chicken and you'd",
@@ -1601,9 +1709,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 1,
-    "avg_token_depth": 3.2857142857142856,
+    "avg_token_depth": 3.45,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.3333333333333333
+    "noun_to_pronoun_ratio": 0.3333333333333333,
+    "segment_length": 3.4399999999999977,
+    "content_word_ratio": 0.35,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "like to dispatch it yourself.",
@@ -1656,9 +1770,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.8333333333333333,
+    "avg_token_depth": 2.2,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.8400000000000034,
+    "content_word_ratio": 0.4,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "Basically, I'm just going to cut it through the backbone or next to the backbone, and",
@@ -1774,9 +1894,15 @@
     "imperative_type": "none",
     "num_conjunctions": 3,
     "subordinate_clauses": 0,
-    "avg_token_depth": 3.0526315789473686,
+    "avg_token_depth": 3.2222222222222223,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 3.4799999999999898,
+    "content_word_ratio": 0.4375,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "then I'm going to cut it through the breast.",
@@ -1856,9 +1982,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.0,
+    "avg_token_depth": 2.2,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 2.0800000000000125,
+    "content_word_ratio": 0.4444444444444444,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "The tail is going to be your guide.",
@@ -1927,9 +2059,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.6666666666666667,
+    "avg_token_depth": 1.875,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 2.0,
+    "content_word_ratio": 0.375,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Just go to the tail and just cut along all the way in.",
@@ -2019,9 +2157,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.7142857142857144,
+    "avg_token_depth": 2.923076923076923,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2
+    "noun_to_pronoun_ratio": 2,
+    "segment_length": 3.1599999999999966,
+    "content_word_ratio": 0.5384615384615384,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Crunch.",
@@ -2054,9 +2198,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 0.5,
+    "avg_token_depth": 1.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0
+    "noun_to_pronoun_ratio": 0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.0,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "It's very satisfying that sound.",
@@ -2114,9 +2264,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.7142857142857142,
+    "avg_token_depth": 2.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 1.519999999999996,
+    "content_word_ratio": 0.6,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "Did you get it Milton?",
@@ -2168,9 +2324,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.5,
+    "avg_token_depth": 1.8,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 2.680000000000007,
+    "content_word_ratio": 0.2,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "You could cut the backbone out entirely or you could leave it on depending on if you",
@@ -2274,9 +2436,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.176470588235294,
+    "avg_token_depth": 2.3125,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.25
+    "noun_to_pronoun_ratio": 0.25,
+    "segment_length": 4.959999999999994,
+    "content_word_ratio": 0.29411764705882354,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "like that little nubby tail, which I actually really do.",
@@ -2360,9 +2528,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 3.1666666666666665,
+    "avg_token_depth": 3.4545454545454546,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 2.680000000000007,
+    "content_word_ratio": 0.6,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "Or you could cut it off and then just use the backbone for stock.",
@@ -2459,9 +2633,15 @@
     "imperative_type": "none",
     "num_conjunctions": 3,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.6,
+    "avg_token_depth": 2.7857142857142856,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 2.4399999999999977,
+    "content_word_ratio": 0.42857142857142855,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "For this one, I'm going to cut it off just because it'll be a slightly neater presentation.",
@@ -2581,9 +2761,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.9047619047619047,
+    "avg_token_depth": 3.05,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 3.6400000000000006,
+    "content_word_ratio": 0.4117647058823529,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "I'm going to get it started with my knife and I'm going to go through the breast bone",
@@ -2699,9 +2885,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.25,
+    "avg_token_depth": 2.3684210526315788,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.75
+    "noun_to_pronoun_ratio": 0.75,
+    "segment_length": 3.6799999999999926,
+    "content_word_ratio": 0.4444444444444444,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "right here.",
@@ -2740,9 +2932,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 0.6666666666666666,
+    "avg_token_depth": 1.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0
+    "noun_to_pronoun_ratio": 0,
+    "segment_length": 1.0,
+    "content_word_ratio": 1.0,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "It just makes it easier.",
@@ -2797,9 +2995,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.5,
+    "avg_token_depth": 1.8,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.6,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 2
   },
   {
     "text": "There we go.",
@@ -2842,9 +3046,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.0,
+    "avg_token_depth": 1.3333333333333333,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "I have a plastic bag in the freezer with my little chicken parts.",
@@ -2933,9 +3143,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.857142857142857,
+    "avg_token_depth": 3.076923076923077,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 3.0,
+    "content_word_ratio": 0.5384615384615384,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "When it gets filled up, I make stock.",
@@ -3008,9 +3224,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.7,
+    "avg_token_depth": 1.8888888888888888,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 1.480000000000004,
+    "content_word_ratio": 0.375,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "Let me wash my hands.",
@@ -3065,9 +3287,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.8333333333333333,
+    "avg_token_depth": 2.2,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 2.0,
+    "content_word_ratio": 0.6,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "Okay.",
@@ -3100,9 +3328,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 0.5,
+    "avg_token_depth": 1.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0
+    "noun_to_pronoun_ratio": 0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.0,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "It's a really straightforward marinade.",
@@ -3162,9 +3396,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.142857142857143,
+    "avg_token_depth": 2.5,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 2.760000000000005,
+    "content_word_ratio": 0.6,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "This is the ahi amariyo yellow and this is the ahi panca.",
@@ -3250,9 +3490,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.5384615384615383,
+    "avg_token_depth": 2.75,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 4.199999999999989,
+    "content_word_ratio": 0.3333333333333333,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "If you can't find it and you want to make this dish, you can substitute other chili",
@@ -3365,9 +3611,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.3684210526315788,
+    "avg_token_depth": 2.5,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 3.8000000000000114,
+    "content_word_ratio": 0.4117647058823529,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "third",
+    "clause_count": 2
   },
   {
     "text": "pastes.",
@@ -3400,9 +3652,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 0.5,
+    "avg_token_depth": 1.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1
+    "noun_to_pronoun_ratio": 1,
+    "segment_length": 1.0,
+    "content_word_ratio": 1.0,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "You need a lot of garlic for this.",
@@ -3470,9 +3728,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.111111111111111,
+    "avg_token_depth": 2.375,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 1.5999999999999943,
+    "content_word_ratio": 0.375,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "This is six cloves of garlic.",
@@ -3531,9 +3795,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.5714285714285714,
+    "avg_token_depth": 1.8333333333333333,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 1.6400000000000006,
+    "content_word_ratio": 0.3333333333333333,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "You can mince them or just grate them on a little microplane, lime juice for acidity,",
@@ -3641,9 +3911,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.3333333333333335,
+    "avg_token_depth": 2.4705882352941178,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.3333333333333333
+    "noun_to_pronoun_ratio": 1.3333333333333333,
+    "segment_length": 5.439999999999998,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "soy sauce, mustard, ground cumin, salt and pepper.",
@@ -3721,9 +3997,15 @@
     "imperative_type": "none",
     "num_conjunctions": 5,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.0833333333333335,
+    "avg_token_depth": 2.272727272727273,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 7
+    "noun_to_pronoun_ratio": 7,
+    "segment_length": 4.280000000000001,
+    "content_word_ratio": 0.875,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Just give it a whisk.",
@@ -3776,9 +4058,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.6666666666666667,
+    "avg_token_depth": 2.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.6,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "Then I'm just going to coat it really nicely.",
@@ -3853,9 +4141,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.272727272727273,
+    "avg_token_depth": 2.5,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 3.4799999999999898,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "Get under the wings, but you don't have to worry about going under the skin.",
@@ -3962,9 +4256,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.5,
+    "avg_token_depth": 2.6470588235294117,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 3.8799999999999955,
+    "content_word_ratio": 0.4,
+    "sentence_mood": "imperative",
+    "has_negation": 1,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "It's going to get there.",
@@ -4023,9 +4323,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.5714285714285714,
+    "avg_token_depth": 1.8333333333333333,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.6,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "Thank you.",
@@ -4063,9 +4369,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.0,
+    "avg_token_depth": 1.5,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Put it in the fridge between two and 12 hours.",
@@ -4143,9 +4455,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.8181818181818183,
+    "avg_token_depth": 3.1,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 3.960000000000008,
+    "content_word_ratio": 0.3333333333333333,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "You don't want to leave this for more than 12 hours because at that point the chicken",
@@ -4257,9 +4575,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.5555555555555554,
+    "avg_token_depth": 2.7058823529411766,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.5
+    "noun_to_pronoun_ratio": 1.5,
+    "segment_length": 3.759999999999991,
+    "content_word_ratio": 0.375,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "is going to start to, the texture is going to be affected.",
@@ -4349,9 +4673,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.2142857142857144,
+    "avg_token_depth": 2.3846153846153846,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1
+    "noun_to_pronoun_ratio": 1,
+    "segment_length": 2.5600000000000023,
+    "content_word_ratio": 0.4166666666666667,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "It's going to start to get a little bit soft because of the acidity.",
@@ -4454,9 +4784,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.5,
+    "avg_token_depth": 2.6666666666666665,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 2.8000000000000114,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "So 12 hours is your max.",
@@ -4516,9 +4852,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.5714285714285714,
+    "avg_token_depth": 1.8333333333333333,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 2.280000000000001,
+    "content_word_ratio": 0.6,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "What I want to do now is I want to pat it dry because the moisture is going to inhibit",
@@ -4635,9 +4977,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 4,
-    "avg_token_depth": 2.1,
+    "avg_token_depth": 2.210526315789474,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.25
+    "noun_to_pronoun_ratio": 0.25,
+    "segment_length": 5.680000000000007,
+    "content_word_ratio": 0.45,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "browning.",
@@ -4672,9 +5020,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 0.5,
+    "avg_token_depth": 1.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0
+    "noun_to_pronoun_ratio": 0,
+    "segment_length": 1.0,
+    "content_word_ratio": 1.0,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Since this is really all about the burnished, gorgeous, crisp skin, if you don't pat it",
@@ -4793,9 +5147,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 3,
-    "avg_token_depth": 3.7,
+    "avg_token_depth": 3.8947368421052633,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.3333333333333333
+    "noun_to_pronoun_ratio": 0.3333333333333333,
+    "segment_length": 5.359999999999985,
+    "content_word_ratio": 0.4375,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "third",
+    "clause_count": 2
   },
   {
     "text": "down, you're not going to get there.",
@@ -4866,9 +5226,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.3,
+    "avg_token_depth": 2.5555555555555554,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 2.5200000000000102,
+    "content_word_ratio": 0.5714285714285714,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "The chicken at this point has really absorbed all the good flavors of the marinade.",
@@ -4969,9 +5335,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.5,
+    "avg_token_depth": 2.6666666666666665,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 4
+    "noun_to_pronoun_ratio": 4,
+    "segment_length": 4.960000000000008,
+    "content_word_ratio": 0.4666666666666667,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Don't feel bad about patting it off.",
@@ -5039,9 +5411,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.6666666666666667,
+    "avg_token_depth": 1.875,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 2.0,
+    "content_word_ratio": 0.42857142857142855,
+    "sentence_mood": "imperative",
+    "has_negation": 1,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "It has done its work.",
@@ -5095,9 +5473,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.5,
+    "avg_token_depth": 1.8,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 1.1999999999999886,
+    "content_word_ratio": 0.4,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "I'm just going to go wash my hands.",
@@ -5171,9 +5555,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.9,
+    "avg_token_depth": 2.111111111111111,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 4.840000000000003,
+    "content_word_ratio": 0.625,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "This is just a little bit of olive oil.",
@@ -5249,9 +5639,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.3,
+    "avg_token_depth": 2.5555555555555554,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 1.5600000000000023,
+    "content_word_ratio": 0.5555555555555556,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "The olive oil is going to help crisp the skin.",
@@ -5330,9 +5726,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.7272727272727273,
+    "avg_token_depth": 1.9,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 3
+    "noun_to_pronoun_ratio": 3,
+    "segment_length": 2.519999999999982,
+    "content_word_ratio": 0.6,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Just drizzle it on just a little.",
@@ -5397,9 +5799,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.0,
+    "avg_token_depth": 2.2857142857142856,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 3.0400000000000205,
+    "content_word_ratio": 0.5714285714285714,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "Now we're going to put it straight away in the oven.",
@@ -5486,9 +5894,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.3076923076923075,
+    "avg_token_depth": 2.5,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 2.319999999999993,
+    "content_word_ratio": 0.5454545454545454,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "This is the thing.",
@@ -5538,9 +5952,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.4,
+    "avg_token_depth": 1.75,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 1.4799999999999898,
+    "content_word_ratio": 0.25,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "If you don't usually put your oven at 450 and your oven isn't pretty clean, you might",
@@ -5659,9 +6079,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 2,
-    "avg_token_depth": 3.05,
+    "avg_token_depth": 3.210526315789474,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 5.52000000000001,
+    "content_word_ratio": 0.375,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "notice some smoke.",
@@ -5706,9 +6132,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.5,
+    "avg_token_depth": 2.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1
+    "noun_to_pronoun_ratio": 1,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "I'm just warning you.",
@@ -5760,9 +6192,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.5,
+    "avg_token_depth": 1.8,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 2.0,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "It's normal.",
@@ -5805,9 +6243,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.0,
+    "avg_token_depth": 1.3333333333333333,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "So don't be alarmed if your oven gets a little smoky.",
@@ -5896,9 +6340,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.4615384615384617,
+    "avg_token_depth": 2.6666666666666665,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 3.079999999999984,
+    "content_word_ratio": 0.5454545454545454,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "That is the temperature you need.",
@@ -5957,9 +6407,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.7142857142857142,
+    "avg_token_depth": 2.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 2.8000000000000114,
+    "content_word_ratio": 0.3333333333333333,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "It's going to take about 35-45 minutes.",
@@ -6038,9 +6494,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.3636363636363638,
+    "avg_token_depth": 2.6,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 1.920000000000016,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "If your oven is at all uneven, and actually most ovens are pretty uneven, halfway through",
@@ -6149,9 +6611,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.9444444444444446,
+    "avg_token_depth": 3.1176470588235294,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 5.159999999999997,
+    "content_word_ratio": 0.625,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "cooking, just turn the tray around.",
@@ -6214,9 +6682,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.0,
+    "avg_token_depth": 2.2857142857142856,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2
+    "noun_to_pronoun_ratio": 2,
+    "segment_length": 2.6399999999999864,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "That way it will brown evenly.",
@@ -6277,9 +6751,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.4285714285714286,
+    "avg_token_depth": 1.6666666666666667,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 2.4000000000000057,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "So while the chicken is roasting, we can make the sauce.",
@@ -6365,9 +6845,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.5384615384615383,
+    "avg_token_depth": 2.75,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 2.680000000000007,
+    "content_word_ratio": 0.45454545454545453,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "The sauce for this kind of chicken varies with the cook.",
@@ -6448,9 +6934,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.75,
+    "avg_token_depth": 1.9090909090909092,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 4
+    "noun_to_pronoun_ratio": 4,
+    "segment_length": 4.1200000000000045,
+    "content_word_ratio": 0.45454545454545453,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "There is no one kind of green sauce that goes with it.",
@@ -6538,9 +7030,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.3076923076923075,
+    "avg_token_depth": 2.5,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.6666666666666666
+    "noun_to_pronoun_ratio": 0.6666666666666666,
+    "segment_length": 2.559999999999974,
+    "content_word_ratio": 0.4166666666666667,
+    "sentence_mood": "imperative",
+    "has_negation": 1,
+    "pronoun_type": "third",
+    "clause_count": 2
   },
   {
     "text": "When I developed the recipe, I tried many different combinations and this was the one.",
@@ -6645,9 +7143,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.176470588235294,
+    "avg_token_depth": 2.3125,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.6666666666666666
+    "noun_to_pronoun_ratio": 0.6666666666666666,
+    "segment_length": 3.640000000000015,
+    "content_word_ratio": 0.4,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "I was like, yes, this is the sauce.",
@@ -6723,9 +7227,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.1818181818181817,
+    "avg_token_depth": 2.4,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 2.280000000000001,
+    "content_word_ratio": 0.125,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 2
   },
   {
     "text": "So for all you cilantro haters out there, if you don't want to use cilantro, you can",
@@ -6844,9 +7354,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 2,
-    "avg_token_depth": 4.1,
+    "avg_token_depth": 4.315789473684211,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.6666666666666666
+    "noun_to_pronoun_ratio": 0.6666666666666666,
+    "segment_length": 4.199999999999989,
+    "content_word_ratio": 0.47058823529411764,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "substitute another green.",
@@ -6892,9 +7408,15 @@
     "imperative_type": "procedural",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.5,
+    "avg_token_depth": 2.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1
+    "noun_to_pronoun_ratio": 1,
+    "segment_length": 1.7600000000000193,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "You just want to make sure it has a really fresh flavor.",
@@ -6980,9 +7502,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.230769230769231,
+    "avg_token_depth": 2.4166666666666665,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 2.0,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 3
   },
   {
     "text": "My new favorite cilantro substitute is arugula.",
@@ -7047,9 +7575,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.625,
+    "avg_token_depth": 1.8571428571428572,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 2.6399999999999864,
+    "content_word_ratio": 0.5714285714285714,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Actually, baby arugula, because it has a peppery brightness.",
@@ -7130,9 +7664,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.3333333333333335,
+    "avg_token_depth": 2.5454545454545454,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 4.0
+    "noun_to_pronoun_ratio": 4.0,
+    "segment_length": 3.5600000000000023,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 2
   },
   {
     "text": "It's a different flavor, but I like it.",
@@ -7211,9 +7751,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.4545454545454546,
+    "avg_token_depth": 2.7,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.3333333333333333
+    "noun_to_pronoun_ratio": 0.3333333333333333,
+    "segment_length": 2.1200000000000045,
+    "content_word_ratio": 0.375,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "There are so many things in the sauce, but they work together and they really harmonize",
@@ -7317,9 +7863,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 4,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.764705882352941,
+    "avg_token_depth": 2.9375,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.6666666666666666
+    "noun_to_pronoun_ratio": 0.6666666666666666,
+    "segment_length": 6.0400000000000205,
+    "content_word_ratio": 0.5625,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "well.",
@@ -7352,9 +7904,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 0.5,
+    "avg_token_depth": 1.0,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0
+    "noun_to_pronoun_ratio": 0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.0,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "So I'm going to get this going and then I'm going to slowly drizzle in the olive oil.",
@@ -7478,9 +8036,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.0476190476190474,
+    "avg_token_depth": 2.263157894736842,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 4.519999999999982,
+    "content_word_ratio": 0.5555555555555556,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 3
   },
   {
     "text": "How do you know when the sauce is blended enough?",
@@ -7558,9 +8122,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.4545454545454546,
+    "avg_token_depth": 2.7,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 1.8799999999999955,
+    "content_word_ratio": 0.4,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "Well, one way is you look at it and you see that there are no big chunks.",
@@ -7674,9 +8244,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 3,
-    "avg_token_depth": 2.789473684210526,
+    "avg_token_depth": 2.9444444444444446,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.5
+    "noun_to_pronoun_ratio": 0.5,
+    "segment_length": 4.0,
+    "content_word_ratio": 0.35294117647058826,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "third",
+    "clause_count": 3
   },
   {
     "text": "But another way to tell is you listen.",
@@ -7745,9 +8321,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.0,
+    "avg_token_depth": 2.25,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 1.7999999999999545,
+    "content_word_ratio": 0.375,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 3
   },
   {
     "text": "You're going to hear the change from everything being solid, ingredients kind of bumping around",
@@ -7852,9 +8434,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.176470588235294,
+    "avg_token_depth": 2.3125,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 5.32000000000005,
+    "content_word_ratio": 0.5333333333333333,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "until it gets quiet and like a little, like a purrs.",
@@ -7944,9 +8532,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 1,
-    "avg_token_depth": 2.769230769230769,
+    "avg_token_depth": 3.0,
     "filler_word_count": 2,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 4.599999999999966,
+    "content_word_ratio": 0.36363636363636365,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "When the blender purrs, your sauce is ready.",
@@ -8021,9 +8615,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.7,
+    "avg_token_depth": 1.8888888888888888,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 3.0
+    "noun_to_pronoun_ratio": 3.0,
+    "segment_length": 2.1200000000000045,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 2
   },
   {
     "text": "It's bright green.",
@@ -8074,9 +8674,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.4,
+    "avg_token_depth": 1.75,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 1.1999999999999886,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "It's very smooth and silky looking.",
@@ -8138,9 +8744,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.375,
+    "avg_token_depth": 2.7142857142857144,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 1.9600000000000364,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "So I'm going to try it.",
@@ -8204,9 +8816,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.75,
+    "avg_token_depth": 2.0,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.6399999999999864,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "Oh, it's so good.",
@@ -8266,9 +8884,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.7142857142857142,
+    "avg_token_depth": 2.0,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 2.480000000000018,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "You're tasting for salt and acidity.",
@@ -8334,9 +8958,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.625,
+    "avg_token_depth": 1.8571428571428572,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 2.0399999999999636,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "You add a little more salt, a little more pepper.",
@@ -8419,9 +9049,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.5833333333333335,
+    "avg_token_depth": 2.8181818181818183,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 1.7200000000000273,
+    "content_word_ratio": 0.7,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "I actually think this is perfect the way it is, so I'm not going to add any of it, but",
@@ -8553,9 +9189,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 2,
-    "avg_token_depth": 3.347826086956522,
+    "avg_token_depth": 3.5,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.16666666666666666
+    "noun_to_pronoun_ratio": 0.16666666666666666,
+    "segment_length": 3.079999999999984,
+    "content_word_ratio": 0.35,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "first",
+    "clause_count": 4
   },
   {
     "text": "you need to taste it because you never know.",
@@ -8628,9 +9270,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 2,
-    "avg_token_depth": 2.6,
+    "avg_token_depth": 2.888888888888889,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 2.519999999999982,
+    "content_word_ratio": 0.4444444444444444,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "third",
+    "clause_count": 2
   },
   {
     "text": "And the chicken is ready.",
@@ -8686,9 +9334,15 @@
     "imperative_type": "none",
     "num_conjunctions": 1,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.3333333333333333,
+    "avg_token_depth": 1.6,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1
+    "noun_to_pronoun_ratio": 1,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.4,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "I'm going to get it and we're going to feast.",
@@ -8774,9 +9428,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.0,
+    "avg_token_depth": 2.1666666666666665,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.3333333333333333
+    "noun_to_pronoun_ratio": 0.3333333333333333,
+    "segment_length": 1.8799999999999955,
+    "content_word_ratio": 0.4,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "Oh, it's gorgeous.",
@@ -8831,9 +9491,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.5,
+    "avg_token_depth": 1.8,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 3.7200000000000273,
+    "content_word_ratio": 0.3333333333333333,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "You can see the color.",
@@ -8886,9 +9552,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.5,
+    "avg_token_depth": 1.8,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.4,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Look at that, the crisp skin, the beautiful, really dark golden brown.",
@@ -8989,9 +9661,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 3.5625,
+    "avg_token_depth": 3.8,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 4.839999999999975,
+    "content_word_ratio": 0.5833333333333334,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "Now you want to let it rest for a couple of minutes, just like five, 10 minutes tops while",
@@ -9115,9 +9793,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 3,
-    "avg_token_depth": 3.142857142857143,
+    "avg_token_depth": 3.3,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 1.5
+    "noun_to_pronoun_ratio": 1.5,
+    "segment_length": 4.560000000000002,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 3
   },
   {
     "text": "you set the table, pour the sauce into a bowl, get everything all ready.",
@@ -9218,9 +9902,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.9411764705882355,
+    "avg_token_depth": 3.125,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 4.520000000000039,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "It doesn't need a long rest.",
@@ -9286,9 +9976,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.0,
+    "avg_token_depth": 2.2857142857142856,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "It doesn't need like a 20 minute turkey rest.",
@@ -9369,9 +10065,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.5454545454545454,
+    "avg_token_depth": 2.8,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 3.0
+    "noun_to_pronoun_ratio": 3.0,
+    "segment_length": 8.599999999999966,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "It's so good.",
@@ -9421,9 +10123,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.4,
+    "avg_token_depth": 1.75,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "It's so flavorful.",
@@ -9471,9 +10179,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.4,
+    "avg_token_depth": 1.75,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "The meat is juicy.",
@@ -9521,9 +10235,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.0,
+    "avg_token_depth": 1.25,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1
+    "noun_to_pronoun_ratio": 1,
+    "segment_length": 2.0,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "The skin is crisp.",
@@ -9574,9 +10294,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.0,
+    "avg_token_depth": 1.25,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1
+    "noun_to_pronoun_ratio": 1,
+    "segment_length": 2.5600000000000023,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "That sauce is amazing.",
@@ -9626,9 +10352,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.0,
+    "avg_token_depth": 1.25,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1
+    "noun_to_pronoun_ratio": 1,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "I want it on everything.",
@@ -9681,9 +10413,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.5,
+    "avg_token_depth": 1.8,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.5200000000000387,
+    "content_word_ratio": 0.2,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "Bright, vibrant, pungent, salty, umami, all of the things.",
@@ -9775,9 +10513,15 @@
     "imperative_type": "none",
     "num_conjunctions": 2,
     "subordinate_clauses": 0,
-    "avg_token_depth": 3.8,
+    "avg_token_depth": 4.071428571428571,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 4.639999999999986,
+    "content_word_ratio": 0.6666666666666666,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "For the recipe, we have a free link below.",
@@ -9854,9 +10598,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.090909090909091,
+    "avg_token_depth": 2.3,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 2.0
+    "noun_to_pronoun_ratio": 2.0,
+    "segment_length": 2.6399999999999864,
+    "content_word_ratio": 0.5555555555555556,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "So click on it, make it, leave us a comment.",
@@ -9940,9 +10690,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 1,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.4615384615384617,
+    "avg_token_depth": 2.6666666666666665,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.3333333333333333
+    "noun_to_pronoun_ratio": 0.3333333333333333,
+    "segment_length": 2.3600000000000136,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "We want to hear from you.",
@@ -10001,9 +10757,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 1.5714285714285714,
+    "avg_token_depth": 1.8333333333333333,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.5600000000000023,
+    "content_word_ratio": 0.3333333333333333,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "And enjoy.",
@@ -10041,9 +10803,15 @@
     "imperative_type": "directive",
     "num_conjunctions": 1,
     "subordinate_clauses": 0,
-    "avg_token_depth": 0.6666666666666666,
+    "avg_token_depth": 1.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0
+    "noun_to_pronoun_ratio": 0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.5,
+    "sentence_mood": "imperative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "It's such a good recipe.",
@@ -10103,9 +10871,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 2.2857142857142856,
+    "avg_token_depth": 2.6666666666666665,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 1.0
+    "noun_to_pronoun_ratio": 1.0,
+    "segment_length": 1.4799999999999613,
+    "content_word_ratio": 0.4,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "third",
+    "clause_count": 1
   },
   {
     "text": "Wow.",
@@ -10138,9 +10912,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 0,
-    "avg_token_depth": 0.5,
+    "avg_token_depth": 1.0,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0
+    "noun_to_pronoun_ratio": 0,
+    "segment_length": 1.0,
+    "content_word_ratio": 0.0,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "none",
+    "clause_count": 1
   },
   {
     "text": "If I do say so myself.",
@@ -10197,9 +10977,15 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 1,
-    "avg_token_depth": 1.7142857142857142,
+    "avg_token_depth": 2.0,
     "filler_word_count": 1,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 2.0,
+    "content_word_ratio": 0.3333333333333333,
+    "sentence_mood": "declarative",
+    "has_negation": 0,
+    "pronoun_type": "first",
+    "clause_count": 1
   },
   {
     "text": "You don't mind if I sit underneath this, do you?",
@@ -10281,8 +11067,14 @@
     "imperative_type": "none",
     "num_conjunctions": 0,
     "subordinate_clauses": 3,
-    "avg_token_depth": 2.0,
+    "avg_token_depth": 2.1666666666666665,
     "filler_word_count": 0,
-    "noun_to_pronoun_ratio": 0.0
+    "noun_to_pronoun_ratio": 0.0,
+    "segment_length": 1.5200000000000387,
+    "content_word_ratio": 0.3,
+    "sentence_mood": "declarative",
+    "has_negation": 1,
+    "pronoun_type": "first",
+    "clause_count": 3
   }
 ]
