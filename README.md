@@ -1,6 +1,5 @@
-===========================
-📚 WORKS CITED 
-===========================
+
+📚 Works Cited
 
 Imperative Type (Directive vs. Procedural)
 - van Olmen, D., & Heinold, S. (Eds.). (2017). Imperatives and commands: A cross-linguistic perspective. Oxford University Press.
