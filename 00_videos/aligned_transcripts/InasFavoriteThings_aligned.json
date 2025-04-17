@@ -1,0 +1,8694 @@
+[
+  {
+    "text": "Hi everybody, I'm Ina Garten and you're here in my barn in East Hampton, New York.",
+    "start_time": 0.0,
+    "end_time": 4.8,
+    "start_frame": 0,
+    "end_frame": 144,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Hi",
+        "INTJ"
+      ],
+      [
+        "everybody",
+        "PRON"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "Ina",
+        "PROPN"
+      ],
+      [
+        "Garten",
+        "PROPN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "'re",
+        "AUX"
+      ],
+      [
+        "here",
+        "ADV"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "my",
+        "PRON"
+      ],
+      [
+        "barn",
+        "NOUN"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "East",
+        "PROPN"
+      ],
+      [
+        "Hampton",
+        "PROPN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "New",
+        "PROPN"
+      ],
+      [
+        "York",
+        "PROPN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "INTJ": 1,
+      "PRON": 4,
+      "PUNCT": 3,
+      "AUX": 2,
+      "PROPN": 6,
+      "CCONJ": 1,
+      "ADV": 1,
+      "ADP": 2,
+      "NOUN": 1
+    },
+    "repeated_lemmas": [
+      "everybody",
+      "barn"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.6875,
+    "word_count": 16,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.1904761904761907,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.25
+  },
+  {
+    "text": "Have a very good time and don't forget the cocktails.",
+    "start_time": 9.36,
+    "end_time": 12.4,
+    "start_frame": 280,
+    "end_frame": 372,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Have",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "very",
+        "ADV"
+      ],
+      [
+        "good",
+        "ADJ"
+      ],
+      [
+        "time",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "do",
+        "AUX"
+      ],
+      [
+        "n't",
+        "PART"
+      ],
+      [
+        "forget",
+        "VERB"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "cocktails",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "VERB": 2,
+      "DET": 2,
+      "ADV": 1,
+      "ADJ": 1,
+      "NOUN": 2,
+      "CCONJ": 1,
+      "AUX": 1,
+      "PART": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "good",
+      "time",
+      "forget"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.0,
+    "word_count": 10,
+    "uses_emphasis_word": 1,
+    "imperative_type": "procedural",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 3.25,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 2
+  },
+  {
+    "text": "Delicious! So today I'm going to show you around my kitchen. Well, it's my office really and I'm",
+    "start_time": 15.44,
+    "end_time": 21.12,
+    "start_frame": 463,
+    "end_frame": 633,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Delicious",
+        "PROPN"
+      ],
+      [
+        "!",
+        "PUNCT"
+      ],
+      [
+        "So",
+        "ADV"
+      ],
+      [
+        "today",
+        "NOUN"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "show",
+        "VERB"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "around",
+        "ADP"
+      ],
+      [
+        "my",
+        "PRON"
+      ],
+      [
+        "kitchen",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Well",
+        "INTJ"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "my",
+        "PRON"
+      ],
+      [
+        "office",
+        "NOUN"
+      ],
+      [
+        "really",
+        "ADV"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ]
+    ],
+    "pos_counts": {
+      "PROPN": 1,
+      "PUNCT": 3,
+      "ADV": 2,
+      "NOUN": 3,
+      "PRON": 6,
+      "AUX": 3,
+      "VERB": 2,
+      "PART": 1,
+      "ADP": 1,
+      "INTJ": 1,
+      "CCONJ": 1
+    },
+    "repeated_lemmas": [
+      "delicious",
+      "go",
+      "kitchen"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.888888888888889,
+    "word_count": 18,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 1,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.75,
+    "filler_word_count": 2,
+    "noun_to_pronoun_ratio": 0.5
+  },
+  {
+    "text": "going to show you a few of my favorite things. This barn is actually a great luxury for me because I",
+    "start_time": 21.12,
+    "end_time": 25.6,
+    "start_frame": 633,
+    "end_frame": 768,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "show",
+        "VERB"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "few",
+        "ADJ"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "my",
+        "PRON"
+      ],
+      [
+        "favorite",
+        "ADJ"
+      ],
+      [
+        "things",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "This",
+        "DET"
+      ],
+      [
+        "barn",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "actually",
+        "ADV"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "great",
+        "ADJ"
+      ],
+      [
+        "luxury",
+        "NOUN"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "me",
+        "PRON"
+      ],
+      [
+        "because",
+        "SCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ]
+    ],
+    "pos_counts": {
+      "VERB": 2,
+      "PART": 1,
+      "PRON": 4,
+      "DET": 3,
+      "ADJ": 3,
+      "ADP": 2,
+      "NOUN": 3,
+      "PUNCT": 1,
+      "AUX": 1,
+      "ADV": 1,
+      "SCONJ": 1
+    },
+    "repeated_lemmas": [
+      "go",
+      "favorite",
+      "thing",
+      "barn",
+      "actually",
+      "great"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 3.761904761904762,
+    "word_count": 21,
+    "uses_emphasis_word": 0,
+    "imperative_type": "directive",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 2.272727272727273,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.75
+  },
+  {
+    "text": "used to work and film in my house. That was crazy and so now I get to walk across the lawn",
+    "start_time": 25.6,
+    "end_time": 31.84,
+    "start_frame": 768,
+    "end_frame": 955,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "used",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "work",
+        "VERB"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "film",
+        "NOUN"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "my",
+        "PRON"
+      ],
+      [
+        "house",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "That",
+        "PRON"
+      ],
+      [
+        "was",
+        "AUX"
+      ],
+      [
+        "crazy",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "so",
+        "ADV"
+      ],
+      [
+        "now",
+        "ADV"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "get",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "walk",
+        "VERB"
+      ],
+      [
+        "across",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "lawn",
+        "NOUN"
+      ]
+    ],
+    "pos_counts": {
+      "VERB": 4,
+      "PART": 2,
+      "CCONJ": 2,
+      "NOUN": 3,
+      "ADP": 2,
+      "PRON": 3,
+      "PUNCT": 1,
+      "AUX": 1,
+      "ADJ": 1,
+      "ADV": 2,
+      "DET": 1
+    },
+    "repeated_lemmas": [
+      "work"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 3.2857142857142856,
+    "word_count": 21,
+    "uses_emphasis_word": 1,
+    "imperative_type": "directive",
+    "num_conjunctions": 3,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.7727272727272727,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 1.0
+  },
+  {
+    "text": "and go to work and then when I'm done I can close the door and leave work behind me.",
+    "start_time": 31.84,
+    "end_time": 36.08,
+    "start_frame": 955,
+    "end_frame": 1082,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "go",
+        "VERB"
+      ],
+      [
+        "to",
+        "ADP"
+      ],
+      [
+        "work",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "then",
+        "ADV"
+      ],
+      [
+        "when",
+        "SCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "done",
+        "VERB"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "can",
+        "AUX"
+      ],
+      [
+        "close",
+        "VERB"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "door",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "leave",
+        "VERB"
+      ],
+      [
+        "work",
+        "NOUN"
+      ],
+      [
+        "behind",
+        "ADP"
+      ],
+      [
+        "me",
+        "PRON"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "CCONJ": 3,
+      "VERB": 4,
+      "ADP": 2,
+      "NOUN": 3,
+      "ADV": 1,
+      "SCONJ": 1,
+      "PRON": 3,
+      "AUX": 2,
+      "DET": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "work",
+      "leave",
+      "work"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 3.3157894736842106,
+    "word_count": 19,
+    "uses_emphasis_word": 0,
+    "imperative_type": "directive",
+    "num_conjunctions": 4,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 2.4761904761904763,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.0
+  },
+  {
+    "text": "One of the things I do in my kitchen to make everything really simple is I don't have a",
+    "start_time": 39.44,
+    "end_time": 43.68,
+    "start_frame": 1183,
+    "end_frame": 1310,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "One",
+        "NUM"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "things",
+        "NOUN"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "do",
+        "VERB"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "my",
+        "PRON"
+      ],
+      [
+        "kitchen",
+        "NOUN"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "make",
+        "VERB"
+      ],
+      [
+        "everything",
+        "PRON"
+      ],
+      [
+        "really",
+        "ADV"
+      ],
+      [
+        "simple",
+        "ADJ"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "do",
+        "AUX"
+      ],
+      [
+        "n't",
+        "PART"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "a",
+        "PRON"
+      ]
+    ],
+    "pos_counts": {
+      "NUM": 1,
+      "ADP": 2,
+      "DET": 1,
+      "NOUN": 2,
+      "PRON": 5,
+      "VERB": 3,
+      "PART": 2,
+      "ADV": 1,
+      "ADJ": 1,
+      "AUX": 2
+    },
+    "repeated_lemmas": [
+      "thing",
+      "kitchen",
+      "simple"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.473684210526316,
+    "word_count": 19,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 2.75,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.4
+  },
+  {
+    "text": "lot of fancy equipment. I have just things that anybody else would have in their kitchen.",
+    "start_time": 43.68,
+    "end_time": 48.24,
+    "start_frame": 1310,
+    "end_frame": 1447,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "lot",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "fancy",
+        "ADJ"
+      ],
+      [
+        "equipment",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "things",
+        "NOUN"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "anybody",
+        "PRON"
+      ],
+      [
+        "else",
+        "ADV"
+      ],
+      [
+        "would",
+        "AUX"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "their",
+        "PRON"
+      ],
+      [
+        "kitchen",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "NOUN": 4,
+      "ADP": 2,
+      "ADJ": 1,
+      "PUNCT": 2,
+      "PRON": 4,
+      "VERB": 2,
+      "ADV": 2,
+      "AUX": 1
+    },
+    "repeated_lemmas": [
+      "lot",
+      "equipment",
+      "thing",
+      "anybody",
+      "kitchen"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.5,
+    "word_count": 16,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.2777777777777777,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.0
+  },
+  {
+    "text": "Maybe a few more but not a lot. Nothing that anybody can have themselves. I'm going to start",
+    "start_time": 48.24,
+    "end_time": 52.64,
+    "start_frame": 1447,
+    "end_frame": 1579,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Maybe",
+        "ADV"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "few",
+        "ADJ"
+      ],
+      [
+        "more",
+        "ADJ"
+      ],
+      [
+        "but",
+        "CCONJ"
+      ],
+      [
+        "not",
+        "PART"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "lot",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Nothing",
+        "PRON"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "anybody",
+        "PRON"
+      ],
+      [
+        "can",
+        "AUX"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "themselves",
+        "PRON"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "start",
+        "VERB"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 1,
+      "DET": 2,
+      "ADJ": 2,
+      "CCONJ": 1,
+      "PART": 2,
+      "NOUN": 1,
+      "PUNCT": 2,
+      "PRON": 5,
+      "AUX": 2,
+      "VERB": 3
+    },
+    "repeated_lemmas": [
+      "maybe",
+      "lot",
+      "anybody",
+      "go"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.9444444444444446,
+    "word_count": 18,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.9523809523809523,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.2
+  },
+  {
+    "text": "with three things on the counter that I like to have out all the time. First because they're better",
+    "start_time": 52.64,
+    "end_time": 57.04,
+    "start_frame": 1579,
+    "end_frame": 1711,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "three",
+        "NUM"
+      ],
+      [
+        "things",
+        "NOUN"
+      ],
+      [
+        "on",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "counter",
+        "NOUN"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "like",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "out",
+        "ADP"
+      ],
+      [
+        "all",
+        "DET"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "time",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "First",
+        "ADV"
+      ],
+      [
+        "because",
+        "SCONJ"
+      ],
+      [
+        "they",
+        "PRON"
+      ],
+      [
+        "'re",
+        "AUX"
+      ],
+      [
+        "better",
+        "ADJ"
+      ]
+    ],
+    "pos_counts": {
+      "ADP": 3,
+      "NUM": 1,
+      "NOUN": 3,
+      "DET": 3,
+      "PRON": 3,
+      "VERB": 2,
+      "PART": 1,
+      "PUNCT": 1,
+      "ADV": 1,
+      "SCONJ": 1,
+      "AUX": 1,
+      "ADJ": 1
+    },
+    "repeated_lemmas": [
+      "thing",
+      "counter",
+      "like",
+      "time",
+      "well"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.052631578947368,
+    "word_count": 19,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 2.4285714285714284,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 1.0
+  },
+  {
+    "text": "at room temperature like garlic and oranges, eggs are better at room temperature on baking,",
+    "start_time": 57.04,
+    "end_time": 62.4,
+    "start_frame": 1711,
+    "end_frame": 1872,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "at",
+        "ADP"
+      ],
+      [
+        "room",
+        "NOUN"
+      ],
+      [
+        "temperature",
+        "NOUN"
+      ],
+      [
+        "like",
+        "ADP"
+      ],
+      [
+        "garlic",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "oranges",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "eggs",
+        "NOUN"
+      ],
+      [
+        "are",
+        "AUX"
+      ],
+      [
+        "better",
+        "ADJ"
+      ],
+      [
+        "at",
+        "ADP"
+      ],
+      [
+        "room",
+        "NOUN"
+      ],
+      [
+        "temperature",
+        "NOUN"
+      ],
+      [
+        "on",
+        "ADP"
+      ],
+      [
+        "baking",
+        "VERB"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADP": 4,
+      "NOUN": 7,
+      "CCONJ": 1,
+      "PUNCT": 2,
+      "AUX": 1,
+      "ADJ": 1,
+      "VERB": 1
+    },
+    "repeated_lemmas": [
+      "room",
+      "temperature",
+      "like",
+      "egg",
+      "well",
+      "room",
+      "temperature"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 5.0,
+    "word_count": 15,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.0,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 7
+  },
+  {
+    "text": "and lemons are better at room temperature because they have more juice. I'm always picking up something",
+    "start_time": 62.4,
+    "end_time": 66.56,
+    "start_frame": 1872,
+    "end_frame": 1996,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "lemons",
+        "NOUN"
+      ],
+      [
+        "are",
+        "AUX"
+      ],
+      [
+        "better",
+        "ADJ"
+      ],
+      [
+        "at",
+        "ADP"
+      ],
+      [
+        "room",
+        "NOUN"
+      ],
+      [
+        "temperature",
+        "NOUN"
+      ],
+      [
+        "because",
+        "SCONJ"
+      ],
+      [
+        "they",
+        "PRON"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "more",
+        "ADJ"
+      ],
+      [
+        "juice",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "always",
+        "ADV"
+      ],
+      [
+        "picking",
+        "VERB"
+      ],
+      [
+        "up",
+        "ADP"
+      ],
+      [
+        "something",
+        "PRON"
+      ]
+    ],
+    "pos_counts": {
+      "CCONJ": 1,
+      "NOUN": 4,
+      "AUX": 2,
+      "ADJ": 2,
+      "ADP": 2,
+      "SCONJ": 1,
+      "PRON": 3,
+      "VERB": 2,
+      "PUNCT": 1,
+      "ADV": 1
+    },
+    "repeated_lemmas": [
+      "well",
+      "room",
+      "temperature"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.9411764705882355,
+    "word_count": 17,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 1,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 2.1052631578947367,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.3333333333333333
+  },
+  {
+    "text": "and stirring or tasting something and I just buy antique silver spoons. They're really inexpensive",
+    "start_time": 66.56,
+    "end_time": 72.16,
+    "start_frame": 1996,
+    "end_frame": 2164,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "stirring",
+        "VERB"
+      ],
+      [
+        "or",
+        "CCONJ"
+      ],
+      [
+        "tasting",
+        "VERB"
+      ],
+      [
+        "something",
+        "PRON"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "buy",
+        "VERB"
+      ],
+      [
+        "antique",
+        "ADJ"
+      ],
+      [
+        "silver",
+        "NOUN"
+      ],
+      [
+        "spoons",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "They",
+        "PRON"
+      ],
+      [
+        "'re",
+        "AUX"
+      ],
+      [
+        "really",
+        "ADV"
+      ],
+      [
+        "inexpensive",
+        "ADJ"
+      ]
+    ],
+    "pos_counts": {
+      "CCONJ": 3,
+      "VERB": 3,
+      "PRON": 3,
+      "ADV": 2,
+      "ADJ": 2,
+      "NOUN": 2,
+      "PUNCT": 1,
+      "AUX": 1
+    },
+    "repeated_lemmas": [
+      "taste",
+      "buy",
+      "inexpensive"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 5.333333333333333,
+    "word_count": 15,
+    "uses_emphasis_word": 1,
+    "imperative_type": "directive",
+    "num_conjunctions": 4,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.4705882352941178,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.6666666666666666
+  },
+  {
+    "text": "and I just put them in a jar and leave them on the counter. A few spatulas. And the third thing is",
+    "start_time": 72.16,
+    "end_time": 77.12,
+    "start_frame": 2164,
+    "end_frame": 2313,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "put",
+        "VERB"
+      ],
+      [
+        "them",
+        "PRON"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "jar",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "leave",
+        "VERB"
+      ],
+      [
+        "them",
+        "PRON"
+      ],
+      [
+        "on",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "counter",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "A",
+        "DET"
+      ],
+      [
+        "few",
+        "ADJ"
+      ],
+      [
+        "spatulas",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "And",
+        "CCONJ"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "third",
+        "ADJ"
+      ],
+      [
+        "thing",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ]
+    ],
+    "pos_counts": {
+      "CCONJ": 3,
+      "PRON": 3,
+      "ADV": 1,
+      "VERB": 2,
+      "ADP": 2,
+      "DET": 4,
+      "NOUN": 4,
+      "PUNCT": 2,
+      "ADJ": 2,
+      "AUX": 1
+    },
+    "repeated_lemmas": [
+      "jar",
+      "leave",
+      "counter",
+      "thing"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.409090909090909,
+    "word_count": 22,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 4,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.1666666666666665,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.3333333333333333
+  },
+  {
+    "text": "butcher blocks. They're really important. I have lots of them and if you take care of them they last",
+    "start_time": 77.12,
+    "end_time": 81.44,
+    "start_frame": 2313,
+    "end_frame": 2443,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "butcher",
+        "VERB"
+      ],
+      [
+        "blocks",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "They",
+        "PRON"
+      ],
+      [
+        "'re",
+        "AUX"
+      ],
+      [
+        "really",
+        "ADV"
+      ],
+      [
+        "important",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "lots",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "them",
+        "PRON"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "if",
+        "SCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "take",
+        "VERB"
+      ],
+      [
+        "care",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "them",
+        "PRON"
+      ],
+      [
+        "they",
+        "PRON"
+      ],
+      [
+        "last",
+        "VERB"
+      ]
+    ],
+    "pos_counts": {
+      "VERB": 4,
+      "NOUN": 3,
+      "PUNCT": 2,
+      "PRON": 6,
+      "AUX": 1,
+      "ADV": 1,
+      "ADJ": 1,
+      "ADP": 2,
+      "CCONJ": 1,
+      "SCONJ": 1
+    },
+    "repeated_lemmas": [
+      "important",
+      "lot"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.052631578947368,
+    "word_count": 19,
+    "uses_emphasis_word": 1,
+    "imperative_type": "procedural",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 1.9545454545454546,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.5
+  },
+  {
+    "text": "forever. Two years ago when I thought about writing a cookbook that was going to come out in October",
+    "start_time": 81.44,
+    "end_time": 86.32,
+    "start_frame": 2443,
+    "end_frame": 2589,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "forever",
+        "ADV"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Two",
+        "NUM"
+      ],
+      [
+        "years",
+        "NOUN"
+      ],
+      [
+        "ago",
+        "ADV"
+      ],
+      [
+        "when",
+        "SCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "thought",
+        "VERB"
+      ],
+      [
+        "about",
+        "ADP"
+      ],
+      [
+        "writing",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "cookbook",
+        "NOUN"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "was",
+        "AUX"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "come",
+        "VERB"
+      ],
+      [
+        "out",
+        "ADP"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "October",
+        "PROPN"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 2,
+      "PUNCT": 1,
+      "NUM": 1,
+      "NOUN": 2,
+      "SCONJ": 1,
+      "PRON": 2,
+      "VERB": 4,
+      "ADP": 3,
+      "DET": 1,
+      "AUX": 1,
+      "PART": 1,
+      "PROPN": 1
+    },
+    "repeated_lemmas": [
+      "year",
+      "think",
+      "write",
+      "cookbook",
+      "go"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.2631578947368425,
+    "word_count": 19,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 1.35,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.0
+  },
+  {
+    "text": "of 2020, I thought well there's going to be an election in November and everybody's going to be",
+    "start_time": 86.32,
+    "end_time": 90.72,
+    "start_frame": 2589,
+    "end_frame": 2721,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "2020",
+        "NUM"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "thought",
+        "VERB"
+      ],
+      [
+        "well",
+        "INTJ"
+      ],
+      [
+        "there",
+        "PRON"
+      ],
+      [
+        "'s",
+        "VERB"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "be",
+        "AUX"
+      ],
+      [
+        "an",
+        "DET"
+      ],
+      [
+        "election",
+        "NOUN"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "November",
+        "PROPN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "everybody",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "be",
+        "AUX"
+      ]
+    ],
+    "pos_counts": {
+      "ADP": 2,
+      "NUM": 1,
+      "PUNCT": 1,
+      "PRON": 3,
+      "VERB": 4,
+      "INTJ": 1,
+      "PART": 2,
+      "AUX": 3,
+      "DET": 1,
+      "NOUN": 1,
+      "PROPN": 1,
+      "CCONJ": 1
+    },
+    "repeated_lemmas": [
+      "think",
+      "go",
+      "everybody",
+      "go"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.0588235294117645,
+    "word_count": 17,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 2.4285714285714284,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 0.3333333333333333
+  },
+  {
+    "text": "stressed so I'm going to write a cookbook about comfort food and I thought well modern comfort",
+    "start_time": 90.72,
+    "end_time": 95.44,
+    "start_frame": 2721,
+    "end_frame": 2863,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "stressed",
+        "VERB"
+      ],
+      [
+        "so",
+        "ADV"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "write",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "cookbook",
+        "NOUN"
+      ],
+      [
+        "about",
+        "ADP"
+      ],
+      [
+        "comfort",
+        "NOUN"
+      ],
+      [
+        "food",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "thought",
+        "VERB"
+      ],
+      [
+        "well",
+        "INTJ"
+      ],
+      [
+        "modern",
+        "ADJ"
+      ],
+      [
+        "comfort",
+        "NOUN"
+      ]
+    ],
+    "pos_counts": {
+      "VERB": 4,
+      "ADV": 1,
+      "PRON": 2,
+      "AUX": 1,
+      "PART": 1,
+      "DET": 1,
+      "NOUN": 4,
+      "ADP": 1,
+      "CCONJ": 1,
+      "INTJ": 1,
+      "ADJ": 1
+    },
+    "repeated_lemmas": [
+      "go",
+      "write",
+      "cookbook",
+      "food",
+      "think"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.470588235294118,
+    "word_count": 17,
+    "uses_emphasis_word": 1,
+    "imperative_type": "directive",
+    "num_conjunctions": 1,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 1.5555555555555556,
+    "filler_word_count": 2,
+    "noun_to_pronoun_ratio": 2.0
+  },
+  {
+    "text": "food would be great because it's fresher, it's easier to make, it's kind of more delicious.",
+    "start_time": 95.44,
+    "end_time": 100.4,
+    "start_frame": 2863,
+    "end_frame": 3012,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "food",
+        "NOUN"
+      ],
+      [
+        "would",
+        "AUX"
+      ],
+      [
+        "be",
+        "AUX"
+      ],
+      [
+        "great",
+        "ADJ"
+      ],
+      [
+        "because",
+        "SCONJ"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "fresher",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "easier",
+        "ADJ"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "make",
+        "VERB"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "kind",
+        "ADV"
+      ],
+      [
+        "of",
+        "ADV"
+      ],
+      [
+        "more",
+        "ADV"
+      ],
+      [
+        "delicious",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "NOUN": 2,
+      "AUX": 5,
+      "ADJ": 3,
+      "SCONJ": 1,
+      "PRON": 3,
+      "PUNCT": 3,
+      "PART": 1,
+      "VERB": 1,
+      "ADV": 3
+    },
+    "repeated_lemmas": [
+      "food",
+      "great",
+      "easy",
+      "kind",
+      "delicious"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.1875,
+    "word_count": 16,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 4,
+    "avg_token_depth": 2.227272727272727,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.6666666666666666
+  },
+  {
+    "text": "Little did I know. Turns out we all needed this right now. So Thanksgiving is actually usually",
+    "start_time": 100.4,
+    "end_time": 105.92,
+    "start_frame": 3012,
+    "end_frame": 3177,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Little",
+        "ADV"
+      ],
+      [
+        "did",
+        "AUX"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "know",
+        "VERB"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Turns",
+        "VERB"
+      ],
+      [
+        "out",
+        "ADP"
+      ],
+      [
+        "we",
+        "PRON"
+      ],
+      [
+        "all",
+        "PRON"
+      ],
+      [
+        "needed",
+        "VERB"
+      ],
+      [
+        "this",
+        "PRON"
+      ],
+      [
+        "right",
+        "ADV"
+      ],
+      [
+        "now",
+        "ADV"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "So",
+        "ADV"
+      ],
+      [
+        "Thanksgiving",
+        "PROPN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "actually",
+        "ADV"
+      ],
+      [
+        "usually",
+        "ADV"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 6,
+      "AUX": 2,
+      "PRON": 4,
+      "VERB": 3,
+      "PUNCT": 2,
+      "ADP": 1,
+      "PROPN": 1
+    },
+    "repeated_lemmas": [
+      "little",
+      "know",
+      "need",
+      "right",
+      "thanksgiving",
+      "actually"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.470588235294118,
+    "word_count": 17,
+    "uses_emphasis_word": 1,
+    "imperative_type": "directive",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 1.7894736842105263,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 0.0
+  },
+  {
+    "text": "in the barn at this big long table but this year's going to be really different. It's going to be",
+    "start_time": 105.92,
+    "end_time": 110.24,
+    "start_frame": 3177,
+    "end_frame": 3307,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "barn",
+        "NOUN"
+      ],
+      [
+        "at",
+        "ADP"
+      ],
+      [
+        "this",
+        "DET"
+      ],
+      [
+        "big",
+        "ADJ"
+      ],
+      [
+        "long",
+        "ADJ"
+      ],
+      [
+        "table",
+        "NOUN"
+      ],
+      [
+        "but",
+        "CCONJ"
+      ],
+      [
+        "this",
+        "DET"
+      ],
+      [
+        "year",
+        "NOUN"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "be",
+        "AUX"
+      ],
+      [
+        "really",
+        "ADV"
+      ],
+      [
+        "different",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "It",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "be",
+        "AUX"
+      ]
+    ],
+    "pos_counts": {
+      "ADP": 2,
+      "DET": 3,
+      "NOUN": 3,
+      "ADJ": 3,
+      "CCONJ": 1,
+      "AUX": 4,
+      "VERB": 2,
+      "PART": 2,
+      "ADV": 1,
+      "PUNCT": 1,
+      "PRON": 1
+    },
+    "repeated_lemmas": [
+      "barn",
+      "big",
+      "year",
+      "go",
+      "different",
+      "go"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.65,
+    "word_count": 20,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 1,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.217391304347826,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 3.0
+  },
+  {
+    "text": "Jeffrey and me in quarantine. I'll probably make a very small turkey and I think we're going to have",
+    "start_time": 110.24,
+    "end_time": 115.04,
+    "start_frame": 3307,
+    "end_frame": 3451,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Jeffrey",
+        "PROPN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "me",
+        "PRON"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "quarantine",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'ll",
+        "AUX"
+      ],
+      [
+        "probably",
+        "ADV"
+      ],
+      [
+        "make",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "very",
+        "ADV"
+      ],
+      [
+        "small",
+        "ADJ"
+      ],
+      [
+        "turkey",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "think",
+        "VERB"
+      ],
+      [
+        "we",
+        "PRON"
+      ],
+      [
+        "'re",
+        "AUX"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "have",
+        "VERB"
+      ]
+    ],
+    "pos_counts": {
+      "PROPN": 1,
+      "CCONJ": 2,
+      "PRON": 4,
+      "ADP": 1,
+      "NOUN": 2,
+      "PUNCT": 1,
+      "AUX": 2,
+      "ADV": 2,
+      "VERB": 4,
+      "DET": 1,
+      "ADJ": 1,
+      "PART": 1
+    },
+    "repeated_lemmas": [
+      "small",
+      "think",
+      "go"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.9473684210526314,
+    "word_count": 19,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 4,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 2.227272727272727,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.5
+  },
+  {
+    "text": "a very good time. Okay now I'm going to take you to the stove and I'm going to show you four things",
+    "start_time": 115.04,
+    "end_time": 119.6,
+    "start_frame": 3451,
+    "end_frame": 3588,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "very",
+        "ADV"
+      ],
+      [
+        "good",
+        "ADJ"
+      ],
+      [
+        "time",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Okay",
+        "INTJ"
+      ],
+      [
+        "now",
+        "ADV"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "take",
+        "VERB"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "to",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "stove",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "show",
+        "VERB"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "four",
+        "NUM"
+      ],
+      [
+        "things",
+        "NOUN"
+      ]
+    ],
+    "pos_counts": {
+      "DET": 2,
+      "ADV": 2,
+      "ADJ": 1,
+      "NOUN": 3,
+      "PUNCT": 1,
+      "INTJ": 1,
+      "PRON": 4,
+      "AUX": 2,
+      "VERB": 4,
+      "PART": 2,
+      "ADP": 1,
+      "CCONJ": 1,
+      "NUM": 1
+    },
+    "repeated_lemmas": [
+      "good",
+      "time",
+      "okay",
+      "go",
+      "go",
+      "thing"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.3181818181818183,
+    "word_count": 22,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 1,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.56,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.75
+  },
+  {
+    "text": "that I absolutely adore. The first thing's salt. I have three salts that I use all the time. First",
+    "start_time": 119.6,
+    "end_time": 124.16,
+    "start_frame": 3588,
+    "end_frame": 3724,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "that",
+        "SCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "absolutely",
+        "ADV"
+      ],
+      [
+        "adore",
+        "VERB"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "The",
+        "DET"
+      ],
+      [
+        "first",
+        "ADJ"
+      ],
+      [
+        "thing",
+        "NOUN"
+      ],
+      [
+        "'s",
+        "PART"
+      ],
+      [
+        "salt",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "three",
+        "NUM"
+      ],
+      [
+        "salts",
+        "NOUN"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "use",
+        "VERB"
+      ],
+      [
+        "all",
+        "DET"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "time",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "First",
+        "ADV"
+      ]
+    ],
+    "pos_counts": {
+      "SCONJ": 1,
+      "PRON": 4,
+      "ADV": 2,
+      "VERB": 3,
+      "PUNCT": 3,
+      "DET": 3,
+      "ADJ": 1,
+      "NOUN": 4,
+      "PART": 1,
+      "NUM": 1
+    },
+    "repeated_lemmas": [
+      "adore",
+      "thing",
+      "salt",
+      "salt",
+      "use",
+      "time"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.9473684210526314,
+    "word_count": 19,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 1.6956521739130435,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.0
+  },
+  {
+    "text": "one's kosher salt and I use diamond crystal kosher salt. It's actually different from other",
+    "start_time": 124.16,
+    "end_time": 129.6,
+    "start_frame": 3724,
+    "end_frame": 3888,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "one",
+        "PRON"
+      ],
+      [
+        "'s",
+        "PART"
+      ],
+      [
+        "kosher",
+        "ADJ"
+      ],
+      [
+        "salt",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "use",
+        "VERB"
+      ],
+      [
+        "diamond",
+        "NOUN"
+      ],
+      [
+        "crystal",
+        "NOUN"
+      ],
+      [
+        "kosher",
+        "ADJ"
+      ],
+      [
+        "salt",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "It",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "actually",
+        "ADV"
+      ],
+      [
+        "different",
+        "ADJ"
+      ],
+      [
+        "from",
+        "ADP"
+      ],
+      [
+        "other",
+        "ADJ"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 3,
+      "PART": 1,
+      "ADJ": 4,
+      "NOUN": 4,
+      "CCONJ": 1,
+      "VERB": 1,
+      "PUNCT": 1,
+      "AUX": 1,
+      "ADV": 1,
+      "ADP": 1
+    },
+    "repeated_lemmas": [
+      "kosher",
+      "salt",
+      "use",
+      "kosher",
+      "salt",
+      "actually",
+      "different"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.8,
+    "word_count": 15,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 1,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.6111111111111112,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.3333333333333333
+  },
+  {
+    "text": "kosher salt. Some of them are much saltier and so you have to be careful if you use a different",
+    "start_time": 129.6,
+    "end_time": 133.92,
+    "start_frame": 3888,
+    "end_frame": 4017,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "kosher",
+        "ADJ"
+      ],
+      [
+        "salt",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Some",
+        "PRON"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "them",
+        "PRON"
+      ],
+      [
+        "are",
+        "AUX"
+      ],
+      [
+        "much",
+        "ADV"
+      ],
+      [
+        "saltier",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "so",
+        "ADV"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "be",
+        "AUX"
+      ],
+      [
+        "careful",
+        "ADJ"
+      ],
+      [
+        "if",
+        "SCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "use",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "different",
+        "ADJ"
+      ]
+    ],
+    "pos_counts": {
+      "ADJ": 4,
+      "NOUN": 1,
+      "PUNCT": 1,
+      "PRON": 4,
+      "ADP": 1,
+      "AUX": 2,
+      "ADV": 2,
+      "CCONJ": 1,
+      "VERB": 2,
+      "PART": 1,
+      "SCONJ": 1,
+      "DET": 1
+    },
+    "repeated_lemmas": [
+      "kosher",
+      "salt",
+      "use",
+      "different"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.75,
+    "word_count": 20,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 1.7142857142857142,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 0.25
+  },
+  {
+    "text": "kind. The second one is French sea salt. It's called fleur de sel. I use it to finish things.",
+    "start_time": 133.92,
+    "end_time": 139.44,
+    "start_frame": 4017,
+    "end_frame": 4183,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "kind",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "The",
+        "DET"
+      ],
+      [
+        "second",
+        "ADJ"
+      ],
+      [
+        "one",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "French",
+        "ADJ"
+      ],
+      [
+        "sea",
+        "NOUN"
+      ],
+      [
+        "salt",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "It",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "called",
+        "VERB"
+      ],
+      [
+        "fleur",
+        "PROPN"
+      ],
+      [
+        "de",
+        "X"
+      ],
+      [
+        "sel",
+        "PROPN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "use",
+        "VERB"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "finish",
+        "VERB"
+      ],
+      [
+        "things",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "NOUN": 5,
+      "PUNCT": 4,
+      "DET": 1,
+      "ADJ": 2,
+      "AUX": 2,
+      "PRON": 3,
+      "VERB": 3,
+      "PROPN": 2,
+      "X": 1,
+      "PART": 1
+    },
+    "repeated_lemmas": [
+      "kind",
+      "sea",
+      "salt",
+      "use",
+      "thing"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 3.6315789473684212,
+    "word_count": 19,
+    "uses_emphasis_word": 0,
+    "imperative_type": "directive",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.6666666666666667,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.6666666666666667
+  },
+  {
+    "text": "It's kind of just lightly briny and the third one I use from time to time is mold and flake sea salt",
+    "start_time": 139.44,
+    "end_time": 145.76,
+    "start_frame": 4183,
+    "end_frame": 4372,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "It",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "kind",
+        "ADV"
+      ],
+      [
+        "of",
+        "ADV"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "lightly",
+        "ADV"
+      ],
+      [
+        "briny",
+        "PROPN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "third",
+        "ADJ"
+      ],
+      [
+        "one",
+        "NOUN"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "use",
+        "VERB"
+      ],
+      [
+        "from",
+        "ADP"
+      ],
+      [
+        "time",
+        "NOUN"
+      ],
+      [
+        "to",
+        "ADP"
+      ],
+      [
+        "time",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "mold",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "flake",
+        "VERB"
+      ],
+      [
+        "sea",
+        "NOUN"
+      ],
+      [
+        "salt",
+        "NOUN"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 2,
+      "AUX": 2,
+      "ADV": 4,
+      "PROPN": 1,
+      "CCONJ": 2,
+      "DET": 1,
+      "ADJ": 1,
+      "NOUN": 6,
+      "VERB": 2,
+      "ADP": 2
+    },
+    "repeated_lemmas": [
+      "kind",
+      "use",
+      "time",
+      "time",
+      "flake",
+      "sea",
+      "salt"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.5,
+    "word_count": 22,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 4,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 2.5652173913043477,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 3.0
+  },
+  {
+    "text": "and what I like is when I'm doing like a pastry crust like a chicken pot pie or something I'll",
+    "start_time": 145.76,
+    "end_time": 150.96,
+    "start_frame": 4372,
+    "end_frame": 4528,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "what",
+        "PRON"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "like",
+        "VERB"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "when",
+        "SCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "doing",
+        "VERB"
+      ],
+      [
+        "like",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "pastry",
+        "NOUN"
+      ],
+      [
+        "crust",
+        "NOUN"
+      ],
+      [
+        "like",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "chicken",
+        "NOUN"
+      ],
+      [
+        "pot",
+        "NOUN"
+      ],
+      [
+        "pie",
+        "NOUN"
+      ],
+      [
+        "or",
+        "CCONJ"
+      ],
+      [
+        "something",
+        "PRON"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'ll",
+        "AUX"
+      ]
+    ],
+    "pos_counts": {
+      "CCONJ": 2,
+      "PRON": 5,
+      "VERB": 2,
+      "AUX": 3,
+      "SCONJ": 1,
+      "ADP": 2,
+      "DET": 2,
+      "NOUN": 5
+    },
+    "repeated_lemmas": [
+      "like",
+      "like",
+      "like"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.5,
+    "word_count": 20,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 3,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 1.9545454545454546,
+    "filler_word_count": 3,
+    "noun_to_pronoun_ratio": 1.0
+  },
+  {
+    "text": "brush it with egg wash and just sprinkle it with salt and pepper and that flake salt just looks",
+    "start_time": 150.96,
+    "end_time": 156.32,
+    "start_frame": 4528,
+    "end_frame": 4689,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "brush",
+        "VERB"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "egg",
+        "NOUN"
+      ],
+      [
+        "wash",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "sprinkle",
+        "VERB"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "salt",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "pepper",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "that",
+        "DET"
+      ],
+      [
+        "flake",
+        "NOUN"
+      ],
+      [
+        "salt",
+        "NOUN"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "looks",
+        "VERB"
+      ]
+    ],
+    "pos_counts": {
+      "VERB": 3,
+      "PRON": 2,
+      "ADP": 2,
+      "NOUN": 6,
+      "CCONJ": 3,
+      "ADV": 2,
+      "DET": 1
+    },
+    "repeated_lemmas": [
+      "egg",
+      "salt",
+      "flake",
+      "salt",
+      "look"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.052631578947368,
+    "word_count": 19,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 5,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 2.789473684210526,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 3.0
+  },
+  {
+    "text": "gorgeous and that crunchiness tastes great. So three salts I always use and then these are really",
+    "start_time": 156.32,
+    "end_time": 162.56,
+    "start_frame": 4689,
+    "end_frame": 4876,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "gorgeous",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "that",
+        "SCONJ"
+      ],
+      [
+        "crunchiness",
+        "NOUN"
+      ],
+      [
+        "tastes",
+        "VERB"
+      ],
+      [
+        "great",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "So",
+        "ADV"
+      ],
+      [
+        "three",
+        "NUM"
+      ],
+      [
+        "salts",
+        "NOUN"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "always",
+        "ADV"
+      ],
+      [
+        "use",
+        "VERB"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "then",
+        "ADV"
+      ],
+      [
+        "these",
+        "PRON"
+      ],
+      [
+        "are",
+        "AUX"
+      ],
+      [
+        "really",
+        "ADV"
+      ]
+    ],
+    "pos_counts": {
+      "ADJ": 2,
+      "CCONJ": 2,
+      "SCONJ": 1,
+      "NOUN": 2,
+      "VERB": 2,
+      "PUNCT": 1,
+      "ADV": 4,
+      "NUM": 1,
+      "PRON": 2,
+      "AUX": 1
+    },
+    "repeated_lemmas": [
+      "taste",
+      "great",
+      "salt",
+      "use"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.705882352941177,
+    "word_count": 17,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 3,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.2777777777777777,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 1.0
+  },
+  {
+    "text": "important. Timers. I have lots of timers. I don't want to put something in the oven and forget about",
+    "start_time": 162.56,
+    "end_time": 167.04,
+    "start_frame": 4876,
+    "end_frame": 5011,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "important",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Timers",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "lots",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "timers",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "do",
+        "AUX"
+      ],
+      [
+        "n't",
+        "PART"
+      ],
+      [
+        "want",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "put",
+        "VERB"
+      ],
+      [
+        "something",
+        "PRON"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "oven",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "forget",
+        "VERB"
+      ],
+      [
+        "about",
+        "ADP"
+      ]
+    ],
+    "pos_counts": {
+      "ADJ": 1,
+      "PUNCT": 3,
+      "NOUN": 4,
+      "PRON": 3,
+      "VERB": 4,
+      "ADP": 3,
+      "AUX": 1,
+      "PART": 2,
+      "DET": 1,
+      "CCONJ": 1
+    },
+    "repeated_lemmas": [
+      "important",
+      "lot",
+      "want",
+      "oven",
+      "forget"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.0,
+    "word_count": 19,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.608695652173913,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.3333333333333333
+  },
+  {
+    "text": "it which I can do and the next thing is I have lots of oven thermometers because no matter what",
+    "start_time": 167.04,
+    "end_time": 173.12,
+    "start_frame": 5011,
+    "end_frame": 5193,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "which",
+        "PRON"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "can",
+        "AUX"
+      ],
+      [
+        "do",
+        "VERB"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "next",
+        "ADJ"
+      ],
+      [
+        "thing",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "lots",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "oven",
+        "ADJ"
+      ],
+      [
+        "thermometers",
+        "NOUN"
+      ],
+      [
+        "because",
+        "SCONJ"
+      ],
+      [
+        "no",
+        "ADV"
+      ],
+      [
+        "matter",
+        "ADV"
+      ],
+      [
+        "what",
+        "PRON"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 5,
+      "AUX": 2,
+      "VERB": 2,
+      "CCONJ": 1,
+      "DET": 1,
+      "ADJ": 2,
+      "NOUN": 3,
+      "ADP": 1,
+      "SCONJ": 1,
+      "ADV": 2
+    },
+    "repeated_lemmas": [
+      "thing",
+      "lot",
+      "oven"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.8,
+    "word_count": 20,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 1,
+    "subordinate_clauses": 3,
+    "avg_token_depth": 2.85,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.6
+  },
+  {
+    "text": "it says on the dial the oven itself could be totally different. Okay now I'm going to give you a",
+    "start_time": 173.12,
+    "end_time": 178.32,
+    "start_frame": 5193,
+    "end_frame": 5349,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "says",
+        "VERB"
+      ],
+      [
+        "on",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "dial",
+        "NOUN"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "oven",
+        "PROPN"
+      ],
+      [
+        "itself",
+        "PRON"
+      ],
+      [
+        "could",
+        "AUX"
+      ],
+      [
+        "be",
+        "AUX"
+      ],
+      [
+        "totally",
+        "ADV"
+      ],
+      [
+        "different",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Okay",
+        "INTJ"
+      ],
+      [
+        "now",
+        "ADV"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "give",
+        "VERB"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "a",
+        "PRON"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 5,
+      "VERB": 3,
+      "ADP": 1,
+      "DET": 2,
+      "NOUN": 1,
+      "PROPN": 1,
+      "AUX": 3,
+      "ADV": 2,
+      "ADJ": 1,
+      "PUNCT": 1,
+      "INTJ": 1,
+      "PART": 1
+    },
+    "repeated_lemmas": [
+      "say",
+      "oven",
+      "different",
+      "okay",
+      "go"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.7,
+    "word_count": 20,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 2.227272727272727,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.2
+  },
+  {
+    "text": "little tour of the pantry. I have food on one side and I have equipment on the other side. I'll show",
+    "start_time": 178.32,
+    "end_time": 182.56,
+    "start_frame": 5349,
+    "end_frame": 5476,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "little",
+        "ADJ"
+      ],
+      [
+        "tour",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "pantry",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "food",
+        "NOUN"
+      ],
+      [
+        "on",
+        "ADP"
+      ],
+      [
+        "one",
+        "NUM"
+      ],
+      [
+        "side",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "equipment",
+        "NOUN"
+      ],
+      [
+        "on",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "other",
+        "ADJ"
+      ],
+      [
+        "side",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'ll",
+        "AUX"
+      ],
+      [
+        "show",
+        "VERB"
+      ]
+    ],
+    "pos_counts": {
+      "ADJ": 2,
+      "NOUN": 6,
+      "ADP": 3,
+      "DET": 2,
+      "PUNCT": 2,
+      "PRON": 3,
+      "VERB": 3,
+      "NUM": 1,
+      "CCONJ": 1,
+      "AUX": 1
+    },
+    "repeated_lemmas": [
+      "little",
+      "tour",
+      "pantry",
+      "food",
+      "equipment"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.5714285714285716,
+    "word_count": 21,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.9583333333333333,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 2.0
+  },
+  {
+    "text": "you. Oh I forgot I have to stop. So this is all the equipment and look who's a Dutch ovens and",
+    "start_time": 182.56,
+    "end_time": 193.04,
+    "start_frame": 5476,
+    "end_frame": 5791,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Oh",
+        "INTJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "forgot",
+        "VERB"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "stop",
+        "VERB"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "So",
+        "ADV"
+      ],
+      [
+        "this",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "all",
+        "DET"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "equipment",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "look",
+        "VERB"
+      ],
+      [
+        "who",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "Dutch",
+        "ADJ"
+      ],
+      [
+        "ovens",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 5,
+      "PUNCT": 2,
+      "INTJ": 1,
+      "VERB": 4,
+      "PART": 1,
+      "ADV": 1,
+      "AUX": 2,
+      "DET": 3,
+      "NOUN": 2,
+      "CCONJ": 2,
+      "ADJ": 1
+    },
+    "repeated_lemmas": [
+      "equipment",
+      "look",
+      "oven"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.3333333333333335,
+    "word_count": 21,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 3,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 2.2083333333333335,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 0.4
+  },
+  {
+    "text": "dishes that I use a lot and big pans, knife sharpeners, everything you need and then this is the",
+    "start_time": 193.12,
+    "end_time": 199.68,
+    "start_frame": 5793,
+    "end_frame": 5990,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "dishes",
+        "NOUN"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "use",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "lot",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "big",
+        "ADJ"
+      ],
+      [
+        "pans",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "knife",
+        "NOUN"
+      ],
+      [
+        "sharpeners",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "everything",
+        "PRON"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "need",
+        "VERB"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "then",
+        "ADV"
+      ],
+      [
+        "this",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "the",
+        "PRON"
+      ]
+    ],
+    "pos_counts": {
+      "NOUN": 5,
+      "PRON": 6,
+      "VERB": 2,
+      "DET": 1,
+      "CCONJ": 2,
+      "ADJ": 1,
+      "PUNCT": 2,
+      "ADV": 1,
+      "AUX": 1
+    },
+    "repeated_lemmas": [
+      "use",
+      "lot",
+      "big",
+      "pan",
+      "need"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.0,
+    "word_count": 19,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 3,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 3.7142857142857144,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.8333333333333334
+  },
+  {
+    "text": "pantry side. This is all the food. It's not the neatest pantry in the world but it's not the worst.",
+    "start_time": 199.68,
+    "end_time": 204.24,
+    "start_frame": 5990,
+    "end_frame": 6127,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "pantry",
+        "NOUN"
+      ],
+      [
+        "side",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "This",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "all",
+        "DET"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "food",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "It",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "not",
+        "PART"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "neatest",
+        "ADJ"
+      ],
+      [
+        "pantry",
+        "NOUN"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "world",
+        "NOUN"
+      ],
+      [
+        "but",
+        "CCONJ"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "not",
+        "PART"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "worst",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "NOUN": 5,
+      "PUNCT": 3,
+      "PRON": 3,
+      "AUX": 3,
+      "DET": 5,
+      "PART": 2,
+      "ADJ": 2,
+      "ADP": 1,
+      "CCONJ": 1
+    },
+    "repeated_lemmas": [
+      "pantry",
+      "food",
+      "pantry"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.65,
+    "word_count": 20,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.16,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.6666666666666667
+  },
+  {
+    "text": "Okay I'm back. Let me show you some things over here that I love. One is my kitchen scale. I use",
+    "start_time": 204.96,
+    "end_time": 209.92,
+    "start_frame": 6148,
+    "end_frame": 6297,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Okay",
+        "INTJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "back",
+        "ADV"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Let",
+        "VERB"
+      ],
+      [
+        "me",
+        "PRON"
+      ],
+      [
+        "show",
+        "VERB"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "some",
+        "DET"
+      ],
+      [
+        "things",
+        "NOUN"
+      ],
+      [
+        "over",
+        "ADV"
+      ],
+      [
+        "here",
+        "ADV"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "love",
+        "VERB"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "One",
+        "NUM"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "my",
+        "PRON"
+      ],
+      [
+        "kitchen",
+        "NOUN"
+      ],
+      [
+        "scale",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "use",
+        "VERB"
+      ]
+    ],
+    "pos_counts": {
+      "INTJ": 1,
+      "PRON": 7,
+      "AUX": 2,
+      "ADV": 3,
+      "PUNCT": 3,
+      "VERB": 4,
+      "DET": 1,
+      "NOUN": 3,
+      "NUM": 1
+    },
+    "repeated_lemmas": [
+      "okay",
+      "thing",
+      "love",
+      "kitchen",
+      "scale",
+      "use"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 3.380952380952381,
+    "word_count": 21,
+    "uses_emphasis_word": 0,
+    "imperative_type": "directive",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 1.92,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.42857142857142855
+  },
+  {
+    "text": "it all the time. So if something says five ounces and you want it to be really five ounces it's really",
+    "start_time": 209.92,
+    "end_time": 215.84,
+    "start_frame": 6297,
+    "end_frame": 6475,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "all",
+        "DET"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "time",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "So",
+        "ADV"
+      ],
+      [
+        "if",
+        "SCONJ"
+      ],
+      [
+        "something",
+        "PRON"
+      ],
+      [
+        "says",
+        "VERB"
+      ],
+      [
+        "five",
+        "NUM"
+      ],
+      [
+        "ounces",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "want",
+        "VERB"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "be",
+        "AUX"
+      ],
+      [
+        "really",
+        "ADV"
+      ],
+      [
+        "five",
+        "NUM"
+      ],
+      [
+        "ounces",
+        "NOUN"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "really",
+        "ADV"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 5,
+      "DET": 2,
+      "NOUN": 3,
+      "PUNCT": 1,
+      "ADV": 3,
+      "SCONJ": 1,
+      "VERB": 2,
+      "NUM": 2,
+      "CCONJ": 1,
+      "PART": 1,
+      "AUX": 2
+    },
+    "repeated_lemmas": [
+      "time",
+      "say",
+      "want"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.761904761904762,
+    "word_count": 21,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 1.8695652173913044,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 0.6
+  },
+  {
+    "text": "helpful to have a kitchen scale so that's a good one. Not very expensive and you can buy them anywhere.",
+    "start_time": 215.84,
+    "end_time": 221.04,
+    "start_frame": 6475,
+    "end_frame": 6631,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "helpful",
+        "ADJ"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "kitchen",
+        "NOUN"
+      ],
+      [
+        "scale",
+        "NOUN"
+      ],
+      [
+        "so",
+        "SCONJ"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "good",
+        "ADJ"
+      ],
+      [
+        "one",
+        "NUM"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Not",
+        "PART"
+      ],
+      [
+        "very",
+        "ADV"
+      ],
+      [
+        "expensive",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "can",
+        "AUX"
+      ],
+      [
+        "buy",
+        "VERB"
+      ],
+      [
+        "them",
+        "PRON"
+      ],
+      [
+        "anywhere",
+        "ADV"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADJ": 3,
+      "PART": 2,
+      "VERB": 2,
+      "DET": 2,
+      "NOUN": 2,
+      "SCONJ": 1,
+      "PRON": 3,
+      "AUX": 2,
+      "NUM": 1,
+      "PUNCT": 2,
+      "ADV": 2,
+      "CCONJ": 1
+    },
+    "repeated_lemmas": [
+      "kitchen",
+      "scale",
+      "good",
+      "expensive",
+      "buy"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.0,
+    "word_count": 20,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 2.4782608695652173,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 0.6666666666666666
+  },
+  {
+    "text": "The next thing I love and this is maybe not something everybody has is a food meal and what I",
+    "start_time": 221.04,
+    "end_time": 226.16,
+    "start_frame": 6631,
+    "end_frame": 6784,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "The",
+        "DET"
+      ],
+      [
+        "next",
+        "ADJ"
+      ],
+      [
+        "thing",
+        "NOUN"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "love",
+        "VERB"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "this",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "maybe",
+        "ADV"
+      ],
+      [
+        "not",
+        "PART"
+      ],
+      [
+        "something",
+        "PRON"
+      ],
+      [
+        "everybody",
+        "PRON"
+      ],
+      [
+        "has",
+        "VERB"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "food",
+        "NOUN"
+      ],
+      [
+        "meal",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "what",
+        "PRON"
+      ],
+      [
+        "I",
+        "PRON"
+      ]
+    ],
+    "pos_counts": {
+      "DET": 2,
+      "ADJ": 1,
+      "NOUN": 3,
+      "PRON": 6,
+      "VERB": 2,
+      "CCONJ": 2,
+      "AUX": 2,
+      "ADV": 1,
+      "PART": 1
+    },
+    "repeated_lemmas": [
+      "thing",
+      "love",
+      "maybe",
+      "everybody",
+      "food",
+      "meal"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.7,
+    "word_count": 20,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 3,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 2.5,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.5
+  },
+  {
+    "text": "like is something ends up with texture so it's not just like baby food. Potatoes I actually like",
+    "start_time": 226.16,
+    "end_time": 231.28,
+    "start_frame": 6784,
+    "end_frame": 6938,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "like",
+        "INTJ"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "something",
+        "PRON"
+      ],
+      [
+        "ends",
+        "VERB"
+      ],
+      [
+        "up",
+        "ADP"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "texture",
+        "NOUN"
+      ],
+      [
+        "so",
+        "ADV"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "not",
+        "PART"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "like",
+        "ADP"
+      ],
+      [
+        "baby",
+        "NOUN"
+      ],
+      [
+        "food",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Potatoes",
+        "NOUN"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "actually",
+        "ADV"
+      ],
+      [
+        "like",
+        "VERB"
+      ]
+    ],
+    "pos_counts": {
+      "INTJ": 1,
+      "AUX": 2,
+      "PRON": 3,
+      "VERB": 2,
+      "ADP": 3,
+      "NOUN": 4,
+      "ADV": 3,
+      "PART": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "like",
+      "like",
+      "food",
+      "actually",
+      "like"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.222222222222222,
+    "word_count": 18,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 1.55,
+    "filler_word_count": 4,
+    "noun_to_pronoun_ratio": 1.3333333333333333
+  },
+  {
+    "text": "finely pureed so that's different. Okay that's my food meal. I just adore it and two things for",
+    "start_time": 231.28,
+    "end_time": 237.52,
+    "start_frame": 6938,
+    "end_frame": 7125,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "finely",
+        "ADV"
+      ],
+      [
+        "pureed",
+        "ADJ"
+      ],
+      [
+        "so",
+        "ADV"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "different",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Okay",
+        "INTJ"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "my",
+        "PRON"
+      ],
+      [
+        "food",
+        "NOUN"
+      ],
+      [
+        "meal",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "adore",
+        "VERB"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "two",
+        "NUM"
+      ],
+      [
+        "things",
+        "NOUN"
+      ],
+      [
+        "for",
+        "ADP"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 3,
+      "ADJ": 2,
+      "PRON": 5,
+      "AUX": 2,
+      "PUNCT": 2,
+      "INTJ": 1,
+      "NOUN": 3,
+      "VERB": 1,
+      "CCONJ": 1,
+      "NUM": 1,
+      "ADP": 1
+    },
+    "repeated_lemmas": [
+      "different",
+      "okay",
+      "food",
+      "meal",
+      "adore",
+      "thing"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.0,
+    "word_count": 18,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 1.8181818181818181,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 0.6
+  },
+  {
+    "text": "easy cleanup. One is parchment paper and I love to line sheet pans with parchment paper so that",
+    "start_time": 237.52,
+    "end_time": 244.24,
+    "start_frame": 7125,
+    "end_frame": 7327,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "easy",
+        "PROPN"
+      ],
+      [
+        "cleanup",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "One",
+        "NUM"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "parchment",
+        "ADJ"
+      ],
+      [
+        "paper",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "love",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "line",
+        "NOUN"
+      ],
+      [
+        "sheet",
+        "NOUN"
+      ],
+      [
+        "pans",
+        "NOUN"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "parchment",
+        "NOUN"
+      ],
+      [
+        "paper",
+        "NOUN"
+      ],
+      [
+        "so",
+        "SCONJ"
+      ],
+      [
+        "that",
+        "SCONJ"
+      ]
+    ],
+    "pos_counts": {
+      "PROPN": 1,
+      "NOUN": 7,
+      "PUNCT": 1,
+      "NUM": 1,
+      "AUX": 1,
+      "ADJ": 1,
+      "CCONJ": 1,
+      "PRON": 1,
+      "VERB": 1,
+      "PART": 1,
+      "ADP": 1,
+      "SCONJ": 2
+    },
+    "repeated_lemmas": [
+      "easy",
+      "cleanup",
+      "paper",
+      "love",
+      "pan",
+      "paper"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.277777777777778,
+    "word_count": 18,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 1.4736842105263157,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 7.0
+  },
+  {
+    "text": "all you have to do is throw the paper out and you've got a nice clean pan. Well you have to put",
+    "start_time": 244.24,
+    "end_time": 247.76,
+    "start_frame": 7327,
+    "end_frame": 7432,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "all",
+        "PRON"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "do",
+        "VERB"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "throw",
+        "VERB"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "paper",
+        "NOUN"
+      ],
+      [
+        "out",
+        "ADP"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "'ve",
+        "AUX"
+      ],
+      [
+        "got",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "nice",
+        "ADJ"
+      ],
+      [
+        "clean",
+        "ADJ"
+      ],
+      [
+        "pan",
+        "PROPN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Well",
+        "INTJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "put",
+        "VERB"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 4,
+      "VERB": 6,
+      "PART": 2,
+      "AUX": 2,
+      "DET": 2,
+      "NOUN": 1,
+      "ADP": 1,
+      "CCONJ": 1,
+      "ADJ": 2,
+      "PROPN": 1,
+      "PUNCT": 1,
+      "INTJ": 1
+    },
+    "repeated_lemmas": [
+      "paper",
+      "get",
+      "pan"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.1818181818181817,
+    "word_count": 22,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.2916666666666665,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 0.25
+  },
+  {
+    "text": "it in the dishwasher but it's not like crusty and this is the other cleanup thing that I adore",
+    "start_time": 247.76,
+    "end_time": 252.4,
+    "start_frame": 7432,
+    "end_frame": 7572,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "dishwasher",
+        "NOUN"
+      ],
+      [
+        "but",
+        "CCONJ"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "not",
+        "PART"
+      ],
+      [
+        "like",
+        "ADP"
+      ],
+      [
+        "crusty",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "this",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "other",
+        "ADJ"
+      ],
+      [
+        "cleanup",
+        "NOUN"
+      ],
+      [
+        "thing",
+        "NOUN"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "adore",
+        "VERB"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 5,
+      "ADP": 2,
+      "DET": 2,
+      "NOUN": 4,
+      "CCONJ": 2,
+      "AUX": 2,
+      "PART": 1,
+      "ADJ": 1,
+      "VERB": 1
+    },
+    "repeated_lemmas": [
+      "like",
+      "cleanup",
+      "thing",
+      "adore"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.8947368421052633,
+    "word_count": 19,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.5,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 0.8
+  },
+  {
+    "text": "which is my wrap and snap. Instead of fighting with that box all you do is just pull this out",
+    "start_time": 252.4,
+    "end_time": 258.32,
+    "start_frame": 7572,
+    "end_frame": 7749,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "which",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "my",
+        "PRON"
+      ],
+      [
+        "wrap",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "snap",
+        "VERB"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Instead",
+        "ADV"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "fighting",
+        "VERB"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "that",
+        "DET"
+      ],
+      [
+        "box",
+        "NOUN"
+      ],
+      [
+        "all",
+        "PRON"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "do",
+        "VERB"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "pull",
+        "VERB"
+      ],
+      [
+        "this",
+        "PRON"
+      ],
+      [
+        "out",
+        "ADP"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 5,
+      "AUX": 2,
+      "NOUN": 2,
+      "CCONJ": 1,
+      "VERB": 4,
+      "PUNCT": 1,
+      "ADV": 2,
+      "ADP": 3,
+      "DET": 1
+    },
+    "repeated_lemmas": [
+      "wrap"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.65,
+    "word_count": 20,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.0,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.4
+  },
+  {
+    "text": "really simply just cut it off and you have a really simple piece of plastic wrap. I use it all the",
+    "start_time": 259.12,
+    "end_time": 265.28,
+    "start_frame": 7773,
+    "end_frame": 7958,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "really",
+        "ADV"
+      ],
+      [
+        "simply",
+        "ADV"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "cut",
+        "VERB"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "off",
+        "ADP"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "really",
+        "ADV"
+      ],
+      [
+        "simple",
+        "ADJ"
+      ],
+      [
+        "piece",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "plastic",
+        "ADJ"
+      ],
+      [
+        "wrap",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "use",
+        "VERB"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "all",
+        "DET"
+      ],
+      [
+        "the",
+        "PRON"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 4,
+      "VERB": 3,
+      "PRON": 5,
+      "ADP": 2,
+      "CCONJ": 1,
+      "DET": 2,
+      "ADJ": 2,
+      "NOUN": 2,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "simple",
+      "wrap",
+      "use"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 3.6666666666666665,
+    "word_count": 21,
+    "uses_emphasis_word": 1,
+    "imperative_type": "procedural",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.0454545454545454,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.4
+  },
+  {
+    "text": "time. It's just great. Okay I've got one more thing to show you. Actually I've got two more things to",
+    "start_time": 265.28,
+    "end_time": 269.84,
+    "start_frame": 7958,
+    "end_frame": 8095,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "time",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "It",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "great",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Okay",
+        "INTJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'ve",
+        "AUX"
+      ],
+      [
+        "got",
+        "VERB"
+      ],
+      [
+        "one",
+        "NUM"
+      ],
+      [
+        "more",
+        "ADJ"
+      ],
+      [
+        "thing",
+        "NOUN"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "show",
+        "VERB"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Actually",
+        "ADV"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'ve",
+        "AUX"
+      ],
+      [
+        "got",
+        "VERB"
+      ],
+      [
+        "two",
+        "NUM"
+      ],
+      [
+        "more",
+        "ADJ"
+      ],
+      [
+        "things",
+        "NOUN"
+      ],
+      [
+        "to",
+        "PART"
+      ]
+    ],
+    "pos_counts": {
+      "NOUN": 3,
+      "PUNCT": 3,
+      "PRON": 4,
+      "AUX": 3,
+      "ADV": 2,
+      "ADJ": 3,
+      "INTJ": 1,
+      "VERB": 3,
+      "NUM": 2,
+      "PART": 2
+    },
+    "repeated_lemmas": [
+      "time",
+      "great",
+      "okay",
+      "get",
+      "thing",
+      "actually",
+      "get",
+      "thing"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.55,
+    "word_count": 20,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.8076923076923077,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.75
+  },
+  {
+    "text": "show you. First I'm going to show you this and it's not for ice cream. What I do is I use this",
+    "start_time": 269.84,
+    "end_time": 275.04,
+    "start_frame": 8095,
+    "end_frame": 8251,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "show",
+        "VERB"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "First",
+        "ADV"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "show",
+        "VERB"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "this",
+        "PRON"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "not",
+        "PART"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "ice",
+        "NOUN"
+      ],
+      [
+        "cream",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "What",
+        "PRON"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "do",
+        "AUX"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "use",
+        "VERB"
+      ],
+      [
+        "this",
+        "PRON"
+      ]
+    ],
+    "pos_counts": {
+      "VERB": 4,
+      "PRON": 9,
+      "PUNCT": 2,
+      "ADV": 1,
+      "AUX": 4,
+      "PART": 2,
+      "CCONJ": 1,
+      "ADP": 1,
+      "NOUN": 2
+    },
+    "repeated_lemmas": [
+      "go",
+      "ice",
+      "cream",
+      "use"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 3.0454545454545454,
+    "word_count": 22,
+    "uses_emphasis_word": 0,
+    "imperative_type": "procedural",
+    "num_conjunctions": 1,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 1.4230769230769231,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.2222222222222222
+  },
+  {
+    "text": "just a regular ice cream scoop for muffins, for meatballs, for anything that's round and shaped",
+    "start_time": 275.04,
+    "end_time": 280.72,
+    "start_frame": 8251,
+    "end_frame": 8421,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "regular",
+        "ADJ"
+      ],
+      [
+        "ice",
+        "NOUN"
+      ],
+      [
+        "cream",
+        "NOUN"
+      ],
+      [
+        "scoop",
+        "NOUN"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "muffins",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "meatballs",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "anything",
+        "PRON"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "round",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "shaped",
+        "VERB"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 1,
+      "DET": 1,
+      "ADJ": 2,
+      "NOUN": 5,
+      "ADP": 3,
+      "PUNCT": 2,
+      "PRON": 2,
+      "AUX": 1,
+      "CCONJ": 1,
+      "VERB": 1
+    },
+    "repeated_lemmas": [
+      "ice",
+      "cream",
+      "scoop",
+      "muffin",
+      "meatball"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.75,
+    "word_count": 16,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.473684210526316,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 2.5
+  },
+  {
+    "text": "like that and it makes perfectly proportioned meatballs and muffins and it looks very professional.",
+    "start_time": 280.72,
+    "end_time": 286.96,
+    "start_frame": 8421,
+    "end_frame": 8608,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "like",
+        "ADP"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "makes",
+        "VERB"
+      ],
+      [
+        "perfectly",
+        "ADV"
+      ],
+      [
+        "proportioned",
+        "VERB"
+      ],
+      [
+        "meatballs",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "muffins",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "looks",
+        "VERB"
+      ],
+      [
+        "very",
+        "ADV"
+      ],
+      [
+        "professional",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADP": 1,
+      "PRON": 3,
+      "CCONJ": 3,
+      "VERB": 3,
+      "ADV": 2,
+      "NOUN": 2,
+      "ADJ": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "like",
+      "make",
+      "meatball",
+      "muffin",
+      "look"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 5.6,
+    "word_count": 15,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 5,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.3125,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 0.6666666666666666
+  },
+  {
+    "text": "It's just an ice cream scoop you can buy in the homeware store. Okay one more thing and it's my",
+    "start_time": 286.96,
+    "end_time": 291.44,
+    "start_frame": 8608,
+    "end_frame": 8743,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "It",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "an",
+        "DET"
+      ],
+      [
+        "ice",
+        "NOUN"
+      ],
+      [
+        "cream",
+        "NOUN"
+      ],
+      [
+        "scoop",
+        "NOUN"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "can",
+        "AUX"
+      ],
+      [
+        "buy",
+        "VERB"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "homeware",
+        "NOUN"
+      ],
+      [
+        "store",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Okay",
+        "INTJ"
+      ],
+      [
+        "one",
+        "NUM"
+      ],
+      [
+        "more",
+        "ADJ"
+      ],
+      [
+        "thing",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "my",
+        "PRON"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 4,
+      "AUX": 3,
+      "ADV": 1,
+      "DET": 2,
+      "NOUN": 6,
+      "VERB": 1,
+      "ADP": 1,
+      "PUNCT": 1,
+      "INTJ": 1,
+      "NUM": 1,
+      "ADJ": 1,
+      "CCONJ": 1
+    },
+    "repeated_lemmas": [
+      "ice",
+      "cream",
+      "scoop",
+      "buy",
+      "okay",
+      "thing"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.55,
+    "word_count": 20,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 1,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.0869565217391304,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.5
+  },
+  {
+    "text": "favorite thing in the kitchen. I'll be right back. And I'm looking for good vanilla, homemade vanilla.",
+    "start_time": 291.44,
+    "end_time": 299.2,
+    "start_frame": 8743,
+    "end_frame": 8976,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "favorite",
+        "ADJ"
+      ],
+      [
+        "thing",
+        "NOUN"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "kitchen",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'ll",
+        "AUX"
+      ],
+      [
+        "be",
+        "AUX"
+      ],
+      [
+        "right",
+        "ADV"
+      ],
+      [
+        "back",
+        "ADV"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "And",
+        "CCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "looking",
+        "VERB"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "good",
+        "ADJ"
+      ],
+      [
+        "vanilla",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "homemade",
+        "ADJ"
+      ],
+      [
+        "vanilla",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADJ": 3,
+      "NOUN": 4,
+      "ADP": 2,
+      "DET": 1,
+      "PUNCT": 4,
+      "PRON": 2,
+      "AUX": 3,
+      "ADV": 2,
+      "CCONJ": 1,
+      "VERB": 1
+    },
+    "repeated_lemmas": [
+      "favorite",
+      "thing",
+      "kitchen",
+      "right",
+      "look",
+      "good",
+      "vanilla",
+      "homemade",
+      "vanilla"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.529411764705882,
+    "word_count": 17,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 1,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.7391304347826086,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 2.0
+  },
+  {
+    "text": "This is just what I'm looking for. Might tell you about this. Okay this is it. This is my homemade",
+    "start_time": 299.2,
+    "end_time": 306.32,
+    "start_frame": 8976,
+    "end_frame": 9189,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "This",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "what",
+        "PRON"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "looking",
+        "VERB"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Might",
+        "AUX"
+      ],
+      [
+        "tell",
+        "VERB"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "about",
+        "ADP"
+      ],
+      [
+        "this",
+        "PRON"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Okay",
+        "INTJ"
+      ],
+      [
+        "this",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "This",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "my",
+        "PRON"
+      ],
+      [
+        "homemade",
+        "NOUN"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 9,
+      "AUX": 5,
+      "ADV": 1,
+      "VERB": 2,
+      "ADP": 2,
+      "PUNCT": 3,
+      "INTJ": 1,
+      "NOUN": 1
+    },
+    "repeated_lemmas": [
+      "look",
+      "okay",
+      "homemade"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 3.7,
+    "word_count": 20,
+    "uses_emphasis_word": 0,
+    "imperative_type": "procedural",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 1.7083333333333333,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.1111111111111111
+  },
+  {
+    "text": "vanilla. This has been going for 35 years. What I did was I took a jar and I put vanilla beans in it.",
+    "start_time": 306.32,
+    "end_time": 312.16,
+    "start_frame": 9189,
+    "end_frame": 9364,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "vanilla",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "This",
+        "PRON"
+      ],
+      [
+        "has",
+        "AUX"
+      ],
+      [
+        "been",
+        "AUX"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "35",
+        "NUM"
+      ],
+      [
+        "years",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "What",
+        "PRON"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "did",
+        "AUX"
+      ],
+      [
+        "was",
+        "AUX"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "took",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "jar",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "put",
+        "VERB"
+      ],
+      [
+        "vanilla",
+        "NOUN"
+      ],
+      [
+        "beans",
+        "NOUN"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "NOUN": 5,
+      "PUNCT": 3,
+      "PRON": 6,
+      "AUX": 4,
+      "VERB": 3,
+      "ADP": 2,
+      "NUM": 1,
+      "DET": 1,
+      "CCONJ": 1
+    },
+    "repeated_lemmas": [
+      "vanilla",
+      "go",
+      "year",
+      "jar",
+      "vanilla",
+      "bean"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.3636363636363638,
+    "word_count": 22,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 1,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 1.5384615384615385,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.8333333333333334
+  },
+  {
+    "text": "They're expensive but you don't have to do it very often and then I poured in vodka. You use",
+    "start_time": 312.16,
+    "end_time": 316.48,
+    "start_frame": 9364,
+    "end_frame": 9494,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "They",
+        "PRON"
+      ],
+      [
+        "'re",
+        "AUX"
+      ],
+      [
+        "expensive",
+        "ADJ"
+      ],
+      [
+        "but",
+        "CCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "do",
+        "AUX"
+      ],
+      [
+        "n't",
+        "PART"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "do",
+        "VERB"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "very",
+        "ADV"
+      ],
+      [
+        "often",
+        "ADV"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "then",
+        "ADV"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "poured",
+        "VERB"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "vodka",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "You",
+        "PRON"
+      ],
+      [
+        "use",
+        "VERB"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 5,
+      "AUX": 2,
+      "ADJ": 1,
+      "CCONJ": 2,
+      "PART": 2,
+      "VERB": 4,
+      "ADV": 3,
+      "ADP": 1,
+      "NOUN": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "expensive",
+      "vodka",
+      "use"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.526315789473684,
+    "word_count": 19,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 4,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.727272727272727,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.2
+  },
+  {
+    "text": "very inexpensive vodka. It's no time for grey goose and I filled the jar with vanilla and vodka and",
+    "start_time": 316.48,
+    "end_time": 323.68,
+    "start_frame": 9494,
+    "end_frame": 9710,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "very",
+        "ADV"
+      ],
+      [
+        "inexpensive",
+        "ADJ"
+      ],
+      [
+        "vodka",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "It",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "no",
+        "DET"
+      ],
+      [
+        "time",
+        "NOUN"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "grey",
+        "ADJ"
+      ],
+      [
+        "goose",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "filled",
+        "VERB"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "jar",
+        "NOUN"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "vanilla",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "vodka",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 1,
+      "ADJ": 2,
+      "NOUN": 6,
+      "PUNCT": 1,
+      "PRON": 2,
+      "AUX": 1,
+      "DET": 2,
+      "ADP": 2,
+      "CCONJ": 3,
+      "VERB": 1
+    },
+    "repeated_lemmas": [
+      "inexpensive",
+      "vodka",
+      "time",
+      "jar",
+      "vanilla",
+      "vodka"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.105263157894737,
+    "word_count": 19,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 5,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.0476190476190474,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 3.0
+  },
+  {
+    "text": "the liquid after about four or six months becomes vanilla extract and the smell is just amazing.",
+    "start_time": 323.68,
+    "end_time": 329.92,
+    "start_frame": 9710,
+    "end_frame": 9897,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "liquid",
+        "NOUN"
+      ],
+      [
+        "after",
+        "ADP"
+      ],
+      [
+        "about",
+        "ADV"
+      ],
+      [
+        "four",
+        "NUM"
+      ],
+      [
+        "or",
+        "CCONJ"
+      ],
+      [
+        "six",
+        "NUM"
+      ],
+      [
+        "months",
+        "NOUN"
+      ],
+      [
+        "becomes",
+        "VERB"
+      ],
+      [
+        "vanilla",
+        "NOUN"
+      ],
+      [
+        "extract",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "smell",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "amazing",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "DET": 2,
+      "NOUN": 5,
+      "ADP": 1,
+      "ADV": 2,
+      "NUM": 2,
+      "CCONJ": 2,
+      "VERB": 1,
+      "AUX": 1,
+      "ADJ": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "liquid",
+      "vanilla"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.647058823529412,
+    "word_count": 17,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 4,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.5555555555555554,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 5
+  },
+  {
+    "text": "And also the vanilla beans, the seeds inside become liquid so you just snip off the top and you squeeze",
+    "start_time": 330.48,
+    "end_time": 336.32,
+    "start_frame": 9914,
+    "end_frame": 10089,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "And",
+        "CCONJ"
+      ],
+      [
+        "also",
+        "ADV"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "vanilla",
+        "NOUN"
+      ],
+      [
+        "beans",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "seeds",
+        "NOUN"
+      ],
+      [
+        "inside",
+        "ADV"
+      ],
+      [
+        "become",
+        "VERB"
+      ],
+      [
+        "liquid",
+        "ADJ"
+      ],
+      [
+        "so",
+        "SCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "snip",
+        "VERB"
+      ],
+      [
+        "off",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "top",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "squeeze",
+        "VERB"
+      ]
+    ],
+    "pos_counts": {
+      "CCONJ": 2,
+      "ADV": 3,
+      "DET": 3,
+      "NOUN": 4,
+      "PUNCT": 1,
+      "VERB": 3,
+      "ADJ": 1,
+      "SCONJ": 1,
+      "PRON": 2,
+      "ADP": 1
+    },
+    "repeated_lemmas": [
+      "vanilla",
+      "bean",
+      "seed",
+      "liquid"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.15,
+    "word_count": 20,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 3,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 2.4285714285714284,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 2.0
+  },
+  {
+    "text": "the beans out. So if you're making something that like a vanilla pudding or a vanilla cake,",
+    "start_time": 336.32,
+    "end_time": 341.04,
+    "start_frame": 10089,
+    "end_frame": 10231,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "beans",
+        "NOUN"
+      ],
+      [
+        "out",
+        "ADP"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "So",
+        "ADV"
+      ],
+      [
+        "if",
+        "SCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "'re",
+        "AUX"
+      ],
+      [
+        "making",
+        "VERB"
+      ],
+      [
+        "something",
+        "PRON"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "like",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "vanilla",
+        "NOUN"
+      ],
+      [
+        "pudding",
+        "NOUN"
+      ],
+      [
+        "or",
+        "CCONJ"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "vanilla",
+        "NOUN"
+      ],
+      [
+        "cake",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "DET": 3,
+      "NOUN": 5,
+      "ADP": 2,
+      "PUNCT": 2,
+      "ADV": 1,
+      "SCONJ": 1,
+      "PRON": 3,
+      "AUX": 1,
+      "VERB": 1,
+      "CCONJ": 1
+    },
+    "repeated_lemmas": [
+      "bean",
+      "make",
+      "like",
+      "vanilla",
+      "vanilla"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.117647058823529,
+    "word_count": 17,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 2.15,
+    "filler_word_count": 2,
+    "noun_to_pronoun_ratio": 1.6666666666666667
+  },
+  {
+    "text": "you can see the seeds in it and it just is so flavorful. It's like that kind of bitter thing",
+    "start_time": 341.04,
+    "end_time": 345.92,
+    "start_frame": 10231,
+    "end_frame": 10377,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "can",
+        "AUX"
+      ],
+      [
+        "see",
+        "VERB"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "seeds",
+        "NOUN"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "just",
+        "ADV"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "so",
+        "ADV"
+      ],
+      [
+        "flavorful",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "It",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "like",
+        "ADP"
+      ],
+      [
+        "that",
+        "DET"
+      ],
+      [
+        "kind",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "bitter",
+        "ADJ"
+      ],
+      [
+        "thing",
+        "NOUN"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 4,
+      "AUX": 3,
+      "VERB": 1,
+      "DET": 2,
+      "NOUN": 3,
+      "ADP": 3,
+      "CCONJ": 1,
+      "ADV": 2,
+      "ADJ": 2,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "seed",
+      "like",
+      "kind",
+      "thing"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.5,
+    "word_count": 20,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.7727272727272727,
+    "filler_word_count": 2,
+    "noun_to_pronoun_ratio": 0.75
+  },
+  {
+    "text": "that's great with something sweet. So that's my vanilla and it's really easy to make. Merry Christmas",
+    "start_time": 345.92,
+    "end_time": 351.36,
+    "start_frame": 10377,
+    "end_frame": 10540,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "great",
+        "ADJ"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "something",
+        "PRON"
+      ],
+      [
+        "sweet",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "So",
+        "ADV"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "my",
+        "PRON"
+      ],
+      [
+        "vanilla",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "really",
+        "ADV"
+      ],
+      [
+        "easy",
+        "ADJ"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "make",
+        "VERB"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Merry",
+        "PROPN"
+      ],
+      [
+        "Christmas",
+        "PROPN"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 5,
+      "AUX": 3,
+      "ADJ": 3,
+      "ADP": 1,
+      "PUNCT": 2,
+      "ADV": 2,
+      "NOUN": 1,
+      "CCONJ": 1,
+      "PART": 1,
+      "VERB": 1,
+      "PROPN": 2
+    },
+    "repeated_lemmas": [
+      "great",
+      "vanilla",
+      "easy"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.529411764705882,
+    "word_count": 17,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.6818181818181819,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 0.2
+  },
+  {
+    "text": "gift. Okay that's a tour of my kitchen. I know this is going to be unusual Thanksgiving but I think",
+    "start_time": 351.36,
+    "end_time": 356.48,
+    "start_frame": 10540,
+    "end_frame": 10694,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "gift",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Okay",
+        "INTJ"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "tour",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "my",
+        "PRON"
+      ],
+      [
+        "kitchen",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "know",
+        "VERB"
+      ],
+      [
+        "this",
+        "PRON"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "going",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "be",
+        "AUX"
+      ],
+      [
+        "unusual",
+        "ADJ"
+      ],
+      [
+        "Thanksgiving",
+        "PROPN"
+      ],
+      [
+        "but",
+        "CCONJ"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "think",
+        "VERB"
+      ]
+    ],
+    "pos_counts": {
+      "NOUN": 3,
+      "PUNCT": 2,
+      "INTJ": 1,
+      "PRON": 5,
+      "AUX": 3,
+      "DET": 1,
+      "ADP": 1,
+      "VERB": 3,
+      "PART": 1,
+      "ADJ": 1,
+      "PROPN": 1,
+      "CCONJ": 1
+    },
+    "repeated_lemmas": [
+      "okay",
+      "tour",
+      "kitchen",
+      "know",
+      "go",
+      "thanksgiving",
+      "think"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.8,
+    "word_count": 20,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 1,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 1.6521739130434783,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.6
+  },
+  {
+    "text": "it's important to find joy in the small things, the simple things and to make it a real celebration",
+    "start_time": 356.48,
+    "end_time": 361.92,
+    "start_frame": 10694,
+    "end_frame": 10857,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "important",
+        "ADJ"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "find",
+        "VERB"
+      ],
+      [
+        "joy",
+        "NOUN"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "small",
+        "ADJ"
+      ],
+      [
+        "things",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "simple",
+        "ADJ"
+      ],
+      [
+        "things",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "make",
+        "VERB"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "real",
+        "ADJ"
+      ],
+      [
+        "celebration",
+        "NOUN"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 2,
+      "AUX": 1,
+      "ADJ": 4,
+      "PART": 2,
+      "VERB": 2,
+      "NOUN": 4,
+      "ADP": 1,
+      "DET": 3,
+      "PUNCT": 1,
+      "CCONJ": 1
+    },
+    "repeated_lemmas": [
+      "important",
+      "small",
+      "thing",
+      "simple",
+      "thing"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.105263157894737,
+    "word_count": 19,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 3.7142857142857144,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 2.0
+  },
+  {
+    "text": "because the holidays really kind of mark important dates and if we lose that we'll lose the whole thing",
+    "start_time": 361.92,
+    "end_time": 367.92,
+    "start_frame": 10857,
+    "end_frame": 11037,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "because",
+        "SCONJ"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "holidays",
+        "NOUN"
+      ],
+      [
+        "really",
+        "ADV"
+      ],
+      [
+        "kind",
+        "ADV"
+      ],
+      [
+        "of",
+        "ADV"
+      ],
+      [
+        "mark",
+        "VERB"
+      ],
+      [
+        "important",
+        "ADJ"
+      ],
+      [
+        "dates",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "if",
+        "SCONJ"
+      ],
+      [
+        "we",
+        "PRON"
+      ],
+      [
+        "lose",
+        "VERB"
+      ],
+      [
+        "that",
+        "SCONJ"
+      ],
+      [
+        "we",
+        "PRON"
+      ],
+      [
+        "'ll",
+        "AUX"
+      ],
+      [
+        "lose",
+        "VERB"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "whole",
+        "ADJ"
+      ],
+      [
+        "thing",
+        "NOUN"
+      ]
+    ],
+    "pos_counts": {
+      "SCONJ": 3,
+      "DET": 2,
+      "NOUN": 3,
+      "ADV": 3,
+      "VERB": 3,
+      "ADJ": 2,
+      "CCONJ": 1,
+      "PRON": 2,
+      "AUX": 1
+    },
+    "repeated_lemmas": [
+      "kind",
+      "important",
+      "thing"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.315789473684211,
+    "word_count": 19,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 4,
+    "avg_token_depth": 2.55,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.5
+  },
+  {
+    "text": "and so have a wonderful Thanksgiving. Cook a lot, share with everybody and have a very good time.",
+    "start_time": 367.92,
+    "end_time": 373.76,
+    "start_frame": 11037,
+    "end_frame": 11212,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "so",
+        "ADV"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "wonderful",
+        "ADJ"
+      ],
+      [
+        "Thanksgiving",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Cook",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "lot",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "share",
+        "VERB"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "everybody",
+        "PRON"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "very",
+        "ADV"
+      ],
+      [
+        "good",
+        "ADJ"
+      ],
+      [
+        "time",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "CCONJ": 2,
+      "ADV": 2,
+      "VERB": 4,
+      "DET": 3,
+      "ADJ": 2,
+      "NOUN": 3,
+      "PUNCT": 3,
+      "ADP": 1,
+      "PRON": 1
+    },
+    "repeated_lemmas": [
+      "thanksgiving",
+      "lot",
+      "everybody",
+      "good",
+      "time"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.277777777777778,
+    "word_count": 18,
+    "uses_emphasis_word": 1,
+    "imperative_type": "procedural",
+    "num_conjunctions": 4,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.5714285714285716,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 3.0
+  },
+  {
+    "text": "Happy Thanksgiving everybody.",
+    "start_time": 374.4,
+    "end_time": 375.68,
+    "start_frame": 11232,
+    "end_frame": 11270,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Happy",
+        "PROPN"
+      ],
+      [
+        "Thanksgiving",
+        "PROPN"
+      ],
+      [
+        "everybody",
+        "PRON"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "PROPN": 2,
+      "PRON": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "thanksgiving",
+      "everybody"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 8.666666666666666,
+    "word_count": 3,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 0.75,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.0
+  },
+  {
+    "text": "Is that all right? That was so great. Okay good.",
+    "start_time": 377.84,
+    "end_time": 384.16,
+    "start_frame": 11335,
+    "end_frame": 11524,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Is",
+        "AUX"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "all",
+        "ADV"
+      ],
+      [
+        "right",
+        "ADJ"
+      ],
+      [
+        "?",
+        "PUNCT"
+      ],
+      [
+        "That",
+        "PRON"
+      ],
+      [
+        "was",
+        "AUX"
+      ],
+      [
+        "so",
+        "ADV"
+      ],
+      [
+        "great",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "Okay",
+        "INTJ"
+      ],
+      [
+        "good",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "AUX": 2,
+      "PRON": 2,
+      "ADV": 2,
+      "ADJ": 3,
+      "PUNCT": 3,
+      "INTJ": 1
+    },
+    "repeated_lemmas": [
+      "right",
+      "great",
+      "okay",
+      "good"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.6,
+    "word_count": 10,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 1.3846153846153846,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 0.0
+  }
+]

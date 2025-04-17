@@ -1,0 +1,3416 @@
+[
+  {
+    "text": "Hey guys, I'm Dina from SimplyHomeCook.com and today I'll be showing how to make these fluffy and moist blueberry muffins.",
+    "start_time": 0.0,
+    "end_time": 7.1,
+    "start_frame": 0,
+    "end_frame": 213,
+    "gesture_avg": 0.02977579037789343,
+    "gesture_peak": 0.7403553096570944,
+    "pos_tags": [
+      [
+        "Hey",
+        "INTJ"
+      ],
+      [
+        "guys",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'m",
+        "AUX"
+      ],
+      [
+        "Dina",
+        "PROPN"
+      ],
+      [
+        "from",
+        "ADP"
+      ],
+      [
+        "SimplyHomeCook.com",
+        "PROPN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "today",
+        "NOUN"
+      ],
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "'ll",
+        "AUX"
+      ],
+      [
+        "be",
+        "AUX"
+      ],
+      [
+        "showing",
+        "VERB"
+      ],
+      [
+        "how",
+        "SCONJ"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "make",
+        "VERB"
+      ],
+      [
+        "these",
+        "DET"
+      ],
+      [
+        "fluffy",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "moist",
+        "ADJ"
+      ],
+      [
+        "blueberry",
+        "NOUN"
+      ],
+      [
+        "muffins",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "INTJ": 1,
+      "NOUN": 4,
+      "PUNCT": 2,
+      "PRON": 2,
+      "AUX": 3,
+      "PROPN": 2,
+      "ADP": 1,
+      "CCONJ": 2,
+      "VERB": 2,
+      "SCONJ": 1,
+      "PART": 1,
+      "DET": 1,
+      "ADJ": 2
+    },
+    "repeated_lemmas": [
+      "guy",
+      "fluffy",
+      "blueberry",
+      "muffin"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.105263157894737,
+    "word_count": 19,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 4,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.7083333333333335,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 2.0
+  },
+  {
+    "text": "They're loaded with a ton of blueberries and they're topped the simple and delicious brown sugar streusel.",
+    "start_time": 7.24,
+    "end_time": 13.16,
+    "start_frame": 217,
+    "end_frame": 394,
+    "gesture_avg": 0.10925429134983011,
+    "gesture_peak": 1.2766952572822936,
+    "pos_tags": [
+      [
+        "They",
+        "PRON"
+      ],
+      [
+        "'re",
+        "AUX"
+      ],
+      [
+        "loaded",
+        "VERB"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "ton",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "blueberries",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "they",
+        "PRON"
+      ],
+      [
+        "'re",
+        "AUX"
+      ],
+      [
+        "topped",
+        "VERB"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "simple",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "delicious",
+        "ADJ"
+      ],
+      [
+        "brown",
+        "ADJ"
+      ],
+      [
+        "sugar",
+        "NOUN"
+      ],
+      [
+        "streusel",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 2,
+      "AUX": 2,
+      "VERB": 2,
+      "ADP": 2,
+      "DET": 2,
+      "NOUN": 4,
+      "CCONJ": 2,
+      "ADJ": 3,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "blueberry",
+      "simple",
+      "brown",
+      "sugar",
+      "streusel"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.882352941176471,
+    "word_count": 17,
+    "uses_emphasis_word": 0,
+    "imperative_type": "directive",
+    "num_conjunctions": 4,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.95,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 2.0
+  },
+  {
+    "text": "So you want to start off by combining all of your dry ingredients.",
+    "start_time": 13.8,
+    "end_time": 16.64,
+    "start_frame": 414,
+    "end_frame": 499,
+    "gesture_avg": 0.042971843901686034,
+    "gesture_peak": 0.21161286459685,
+    "pos_tags": [
+      [
+        "So",
+        "ADV"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "want",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "start",
+        "VERB"
+      ],
+      [
+        "off",
+        "ADP"
+      ],
+      [
+        "by",
+        "ADP"
+      ],
+      [
+        "combining",
+        "VERB"
+      ],
+      [
+        "all",
+        "PRON"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "your",
+        "PRON"
+      ],
+      [
+        "dry",
+        "ADJ"
+      ],
+      [
+        "ingredients",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 1,
+      "PRON": 3,
+      "VERB": 3,
+      "PART": 1,
+      "ADP": 3,
+      "ADJ": 1,
+      "NOUN": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "want",
+      "combine",
+      "dry",
+      "ingredient"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.076923076923077,
+    "word_count": 13,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.0714285714285716,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 0.3333333333333333
+  },
+  {
+    "text": "So in a large bowl combine two cups of all-purpose flour, a teaspoon of baking powder,",
+    "start_time": 16.64,
+    "end_time": 21.96,
+    "start_frame": 499,
+    "end_frame": 658,
+    "gesture_avg": 0.06030275458761631,
+    "gesture_peak": 0.6746226791726345,
+    "pos_tags": [
+      [
+        "So",
+        "ADV"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "large",
+        "ADJ"
+      ],
+      [
+        "bowl",
+        "NOUN"
+      ],
+      [
+        "combine",
+        "VERB"
+      ],
+      [
+        "two",
+        "NUM"
+      ],
+      [
+        "cups",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "all",
+        "DET"
+      ],
+      [
+        "-",
+        "PUNCT"
+      ],
+      [
+        "purpose",
+        "NOUN"
+      ],
+      [
+        "flour",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "teaspoon",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "baking",
+        "VERB"
+      ],
+      [
+        "powder",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 1,
+      "ADP": 3,
+      "DET": 3,
+      "ADJ": 1,
+      "NOUN": 6,
+      "VERB": 2,
+      "NUM": 1,
+      "PUNCT": 3
+    },
+    "repeated_lemmas": [
+      "large",
+      "bowl",
+      "combine",
+      "cup",
+      "purpose",
+      "flour",
+      "teaspoon",
+      "bake"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.0,
+    "word_count": 17,
+    "uses_emphasis_word": 1,
+    "imperative_type": "procedural",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.95,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 6
+  },
+  {
+    "text": "half a teaspoon of baking soda, and a quarter teaspoon of salt.",
+    "start_time": 22.72,
+    "end_time": 26.6,
+    "start_frame": 681,
+    "end_frame": 798,
+    "gesture_avg": 0.05127972844779049,
+    "gesture_peak": 0.5551048267513827,
+    "pos_tags": [
+      [
+        "half",
+        "DET"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "teaspoon",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "baking",
+        "VERB"
+      ],
+      [
+        "soda",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "quarter",
+        "NOUN"
+      ],
+      [
+        "teaspoon",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "salt",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "DET": 3,
+      "NOUN": 5,
+      "ADP": 2,
+      "VERB": 1,
+      "PUNCT": 2,
+      "CCONJ": 1
+    },
+    "repeated_lemmas": [
+      "half",
+      "teaspoon",
+      "bake",
+      "quarter",
+      "teaspoon",
+      "salt"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.166666666666667,
+    "word_count": 12,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.7857142857142856,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 5
+  },
+  {
+    "text": "Then whisk it all together and reserve one tablespoon of that flour mixture.",
+    "start_time": 26.6,
+    "end_time": 31.76,
+    "start_frame": 798,
+    "end_frame": 952,
+    "gesture_avg": 0.034563530903118284,
+    "gesture_peak": 0.9522395464828628,
+    "pos_tags": [
+      [
+        "Then",
+        "ADV"
+      ],
+      [
+        "whisk",
+        "VERB"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "all",
+        "PRON"
+      ],
+      [
+        "together",
+        "ADV"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "reserve",
+        "VERB"
+      ],
+      [
+        "one",
+        "NUM"
+      ],
+      [
+        "tablespoon",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "that",
+        "DET"
+      ],
+      [
+        "flour",
+        "NOUN"
+      ],
+      [
+        "mixture",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 2,
+      "VERB": 2,
+      "PRON": 2,
+      "CCONJ": 1,
+      "NUM": 1,
+      "NOUN": 3,
+      "ADP": 1,
+      "DET": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "whisk",
+      "reserve",
+      "tablespoon",
+      "flour",
+      "mixture"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.846153846153846,
+    "word_count": 13,
+    "uses_emphasis_word": 0,
+    "imperative_type": "procedural",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.642857142857143,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.5
+  },
+  {
+    "text": "Now mix that reserved tablespoon of the flour mixture with one and a half cups of fresh blueberries.",
+    "start_time": 33.96,
+    "end_time": 38.84,
+    "start_frame": 1018,
+    "end_frame": 1165,
+    "gesture_avg": 0.08742619265730679,
+    "gesture_peak": 1.3683433589133855,
+    "pos_tags": [
+      [
+        "Now",
+        "ADV"
+      ],
+      [
+        "mix",
+        "VERB"
+      ],
+      [
+        "that",
+        "SCONJ"
+      ],
+      [
+        "reserved",
+        "VERB"
+      ],
+      [
+        "tablespoon",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "flour",
+        "NOUN"
+      ],
+      [
+        "mixture",
+        "NOUN"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "one",
+        "NUM"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "half",
+        "NOUN"
+      ],
+      [
+        "cups",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "fresh",
+        "ADJ"
+      ],
+      [
+        "blueberries",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 1,
+      "VERB": 2,
+      "SCONJ": 1,
+      "NOUN": 6,
+      "ADP": 3,
+      "DET": 2,
+      "NUM": 1,
+      "CCONJ": 1,
+      "ADJ": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "mix",
+      "reserve",
+      "tablespoon",
+      "flour",
+      "mixture",
+      "half",
+      "cup",
+      "fresh",
+      "blueberry"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.555555555555555,
+    "word_count": 18,
+    "uses_emphasis_word": 0,
+    "imperative_type": "procedural",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 3.0,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 6
+  },
+  {
+    "text": "The reason why we add that little tiny bit of flour to those blueberries is when we add them to the batter,",
+    "start_time": 38.96,
+    "end_time": 44.04,
+    "start_frame": 1168,
+    "end_frame": 1321,
+    "gesture_avg": 0.045278367630273396,
+    "gesture_peak": 1.4492912492862857,
+    "pos_tags": [
+      [
+        "The",
+        "DET"
+      ],
+      [
+        "reason",
+        "NOUN"
+      ],
+      [
+        "why",
+        "SCONJ"
+      ],
+      [
+        "we",
+        "PRON"
+      ],
+      [
+        "add",
+        "VERB"
+      ],
+      [
+        "that",
+        "SCONJ"
+      ],
+      [
+        "little",
+        "ADJ"
+      ],
+      [
+        "tiny",
+        "ADJ"
+      ],
+      [
+        "bit",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "flour",
+        "NOUN"
+      ],
+      [
+        "to",
+        "ADP"
+      ],
+      [
+        "those",
+        "DET"
+      ],
+      [
+        "blueberries",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "when",
+        "SCONJ"
+      ],
+      [
+        "we",
+        "PRON"
+      ],
+      [
+        "add",
+        "VERB"
+      ],
+      [
+        "them",
+        "PRON"
+      ],
+      [
+        "to",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "batter",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "DET": 3,
+      "NOUN": 5,
+      "SCONJ": 3,
+      "PRON": 3,
+      "VERB": 2,
+      "ADJ": 2,
+      "ADP": 3,
+      "AUX": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "add",
+      "flour",
+      "blueberry",
+      "add",
+      "batter"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.8636363636363638,
+    "word_count": 22,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 2.5217391304347827,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.6666666666666667
+  },
+  {
+    "text": "during baking the blueberries don't sink as fast when they're coated in flour.",
+    "start_time": 44.44,
+    "end_time": 47.84,
+    "start_frame": 1333,
+    "end_frame": 1435,
+    "gesture_avg": 0.1204743276795793,
+    "gesture_peak": 0.8720823977966156,
+    "pos_tags": [
+      [
+        "during",
+        "ADP"
+      ],
+      [
+        "baking",
+        "VERB"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "blueberries",
+        "NOUN"
+      ],
+      [
+        "do",
+        "AUX"
+      ],
+      [
+        "n't",
+        "PART"
+      ],
+      [
+        "sink",
+        "VERB"
+      ],
+      [
+        "as",
+        "ADV"
+      ],
+      [
+        "fast",
+        "ADV"
+      ],
+      [
+        "when",
+        "SCONJ"
+      ],
+      [
+        "they",
+        "PRON"
+      ],
+      [
+        "'re",
+        "AUX"
+      ],
+      [
+        "coated",
+        "VERB"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "flour",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADP": 2,
+      "VERB": 3,
+      "DET": 1,
+      "NOUN": 2,
+      "AUX": 2,
+      "PART": 1,
+      "ADV": 2,
+      "SCONJ": 1,
+      "PRON": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "bake",
+      "blueberry",
+      "flour"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.538461538461538,
+    "word_count": 13,
+    "uses_emphasis_word": 0,
+    "imperative_type": "directive",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 2.4375,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 2.0
+  },
+  {
+    "text": "Now add three eggs into a large bowl and whisk them on high speed using an electric mixer.",
+    "start_time": 47.84,
+    "end_time": 52.88,
+    "start_frame": 1435,
+    "end_frame": 1586,
+    "gesture_avg": 0.08699348835520826,
+    "gesture_peak": 1.2026871874389056,
+    "pos_tags": [
+      [
+        "Now",
+        "ADV"
+      ],
+      [
+        "add",
+        "VERB"
+      ],
+      [
+        "three",
+        "NUM"
+      ],
+      [
+        "eggs",
+        "NOUN"
+      ],
+      [
+        "into",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "large",
+        "ADJ"
+      ],
+      [
+        "bowl",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "whisk",
+        "VERB"
+      ],
+      [
+        "them",
+        "PRON"
+      ],
+      [
+        "on",
+        "ADP"
+      ],
+      [
+        "high",
+        "ADJ"
+      ],
+      [
+        "speed",
+        "NOUN"
+      ],
+      [
+        "using",
+        "VERB"
+      ],
+      [
+        "an",
+        "DET"
+      ],
+      [
+        "electric",
+        "ADJ"
+      ],
+      [
+        "mixer",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 1,
+      "VERB": 3,
+      "NUM": 1,
+      "NOUN": 4,
+      "ADP": 2,
+      "DET": 2,
+      "ADJ": 3,
+      "CCONJ": 1,
+      "PRON": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "add",
+      "egg",
+      "large",
+      "bowl",
+      "whisk",
+      "electric",
+      "mixer"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.0,
+    "word_count": 18,
+    "uses_emphasis_word": 0,
+    "imperative_type": "procedural",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 3.263157894736842,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 4.0
+  },
+  {
+    "text": "So you want to do this for about three minutes until the eggs become fluffy and pale.",
+    "start_time": 52.88,
+    "end_time": 57.28,
+    "start_frame": 1586,
+    "end_frame": 1718,
+    "gesture_avg": 0.06687458217063347,
+    "gesture_peak": 0.5817370109774382,
+    "pos_tags": [
+      [
+        "So",
+        "ADV"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "want",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "do",
+        "VERB"
+      ],
+      [
+        "this",
+        "PRON"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "about",
+        "ADV"
+      ],
+      [
+        "three",
+        "NUM"
+      ],
+      [
+        "minutes",
+        "NOUN"
+      ],
+      [
+        "until",
+        "SCONJ"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "eggs",
+        "NOUN"
+      ],
+      [
+        "become",
+        "VERB"
+      ],
+      [
+        "fluffy",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "pale",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 2,
+      "PRON": 2,
+      "VERB": 3,
+      "PART": 1,
+      "ADP": 1,
+      "NUM": 1,
+      "NOUN": 2,
+      "SCONJ": 1,
+      "DET": 1,
+      "ADJ": 2,
+      "CCONJ": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "want",
+      "minute",
+      "egg",
+      "fluffy"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.0,
+    "word_count": 17,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 2.611111111111111,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 1.0
+  },
+  {
+    "text": "Then continue beating the eggs as you slowly add one cup of granulated sugar.",
+    "start_time": 58.08,
+    "end_time": 62.48,
+    "start_frame": 1742,
+    "end_frame": 1874,
+    "gesture_avg": 0.0756617766475124,
+    "gesture_peak": 0.939007603916911,
+    "pos_tags": [
+      [
+        "Then",
+        "ADV"
+      ],
+      [
+        "continue",
+        "VERB"
+      ],
+      [
+        "beating",
+        "VERB"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "eggs",
+        "NOUN"
+      ],
+      [
+        "as",
+        "SCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "slowly",
+        "ADV"
+      ],
+      [
+        "add",
+        "VERB"
+      ],
+      [
+        "one",
+        "NUM"
+      ],
+      [
+        "cup",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "granulated",
+        "VERB"
+      ],
+      [
+        "sugar",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 2,
+      "VERB": 4,
+      "DET": 1,
+      "NOUN": 3,
+      "SCONJ": 1,
+      "PRON": 1,
+      "NUM": 1,
+      "ADP": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "continue",
+      "beat",
+      "egg",
+      "slowly",
+      "add",
+      "cup",
+      "sugar"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.5,
+    "word_count": 14,
+    "uses_emphasis_word": 0,
+    "imperative_type": "directive",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 2.466666666666667,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 3.0
+  },
+  {
+    "text": "You want to keep beating those eggs for about three more minutes.",
+    "start_time": 65.28,
+    "end_time": 68.28,
+    "start_frame": 1958,
+    "end_frame": 2048,
+    "gesture_avg": 0.1096856927097271,
+    "gesture_peak": 1.1927913268437138,
+    "pos_tags": [
+      [
+        "You",
+        "PRON"
+      ],
+      [
+        "want",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "keep",
+        "VERB"
+      ],
+      [
+        "beating",
+        "VERB"
+      ],
+      [
+        "those",
+        "DET"
+      ],
+      [
+        "eggs",
+        "NOUN"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "about",
+        "ADV"
+      ],
+      [
+        "three",
+        "NUM"
+      ],
+      [
+        "more",
+        "ADJ"
+      ],
+      [
+        "minutes",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 1,
+      "VERB": 3,
+      "PART": 1,
+      "DET": 1,
+      "NOUN": 2,
+      "ADP": 1,
+      "ADV": 1,
+      "NUM": 1,
+      "ADJ": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "want",
+      "beat",
+      "egg",
+      "minute"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.416666666666667,
+    "word_count": 12,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.3076923076923075,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 2.0
+  },
+  {
+    "text": "So the key to really fluffy muffins is well beaten eggs.",
+    "start_time": 68.36,
+    "end_time": 71.72,
+    "start_frame": 2050,
+    "end_frame": 2151,
+    "gesture_avg": 0.055957407243263556,
+    "gesture_peak": 0.49413172007471506,
+    "pos_tags": [
+      [
+        "So",
+        "ADV"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "key",
+        "NOUN"
+      ],
+      [
+        "to",
+        "ADP"
+      ],
+      [
+        "really",
+        "ADV"
+      ],
+      [
+        "fluffy",
+        "ADJ"
+      ],
+      [
+        "muffins",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "well",
+        "ADV"
+      ],
+      [
+        "beaten",
+        "VERB"
+      ],
+      [
+        "eggs",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 3,
+      "DET": 1,
+      "NOUN": 3,
+      "ADP": 1,
+      "ADJ": 1,
+      "AUX": 1,
+      "VERB": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "fluffy",
+      "muffin",
+      "beat",
+      "egg"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.090909090909091,
+    "word_count": 11,
+    "uses_emphasis_word": 1,
+    "imperative_type": "none",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.3333333333333335,
+    "filler_word_count": 2,
+    "noun_to_pronoun_ratio": 3
+  },
+  {
+    "text": "Now you want to add a teaspoon of vanilla extract and a tablespoon of fresh lemon juice.",
+    "start_time": 71.92,
+    "end_time": 76.96,
+    "start_frame": 2157,
+    "end_frame": 2308,
+    "gesture_avg": 0.024111761615543542,
+    "gesture_peak": 1.0424451675071693,
+    "pos_tags": [
+      [
+        "Now",
+        "ADV"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "want",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "add",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "teaspoon",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "vanilla",
+        "NOUN"
+      ],
+      [
+        "extract",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "tablespoon",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "fresh",
+        "ADJ"
+      ],
+      [
+        "lemon",
+        "NOUN"
+      ],
+      [
+        "juice",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 1,
+      "PRON": 1,
+      "VERB": 2,
+      "PART": 1,
+      "DET": 2,
+      "NOUN": 6,
+      "ADP": 2,
+      "CCONJ": 1,
+      "ADJ": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "want",
+      "add",
+      "teaspoon",
+      "tablespoon",
+      "fresh"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.176470588235294,
+    "word_count": 17,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.5555555555555554,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 6.0
+  },
+  {
+    "text": "Now continue beating the egg mixture as you slowly add three quarter cups of heavy cream.",
+    "start_time": 77.96,
+    "end_time": 83.96,
+    "start_frame": 2338,
+    "end_frame": 2518,
+    "gesture_avg": 0.019170545745237726,
+    "gesture_peak": 0.3420109208423449,
+    "pos_tags": [
+      [
+        "Now",
+        "ADV"
+      ],
+      [
+        "continue",
+        "VERB"
+      ],
+      [
+        "beating",
+        "VERB"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "egg",
+        "NOUN"
+      ],
+      [
+        "mixture",
+        "NOUN"
+      ],
+      [
+        "as",
+        "SCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "slowly",
+        "ADV"
+      ],
+      [
+        "add",
+        "VERB"
+      ],
+      [
+        "three",
+        "NUM"
+      ],
+      [
+        "quarter",
+        "NOUN"
+      ],
+      [
+        "cups",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "heavy",
+        "ADJ"
+      ],
+      [
+        "cream",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 2,
+      "VERB": 3,
+      "DET": 1,
+      "NOUN": 5,
+      "SCONJ": 1,
+      "PRON": 1,
+      "NUM": 1,
+      "ADP": 1,
+      "ADJ": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "continue",
+      "beat",
+      "egg",
+      "mixture",
+      "slowly",
+      "add",
+      "quarter",
+      "cup"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.5625,
+    "word_count": 16,
+    "uses_emphasis_word": 0,
+    "imperative_type": "directive",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 2.6470588235294117,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 5.0
+  },
+  {
+    "text": "Now you can begin adding your dry ingredients, but don't do it all at once.",
+    "start_time": 86.96,
+    "end_time": 90.96,
+    "start_frame": 2608,
+    "end_frame": 2728,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Now",
+        "ADV"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "can",
+        "AUX"
+      ],
+      [
+        "begin",
+        "VERB"
+      ],
+      [
+        "adding",
+        "VERB"
+      ],
+      [
+        "your",
+        "PRON"
+      ],
+      [
+        "dry",
+        "ADJ"
+      ],
+      [
+        "ingredients",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "but",
+        "CCONJ"
+      ],
+      [
+        "do",
+        "AUX"
+      ],
+      [
+        "n't",
+        "PART"
+      ],
+      [
+        "do",
+        "VERB"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "all",
+        "PRON"
+      ],
+      [
+        "at",
+        "ADP"
+      ],
+      [
+        "once",
+        "ADV"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 2,
+      "PRON": 4,
+      "AUX": 2,
+      "VERB": 3,
+      "ADJ": 1,
+      "NOUN": 1,
+      "PUNCT": 2,
+      "CCONJ": 1,
+      "PART": 1,
+      "ADP": 1
+    },
+    "repeated_lemmas": [
+      "begin",
+      "add",
+      "dry",
+      "ingredient"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.7333333333333334,
+    "word_count": 15,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 3.111111111111111,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 0.25
+  },
+  {
+    "text": "So get a sifter out and then add about a third of that flour mixture at a time with mixing in between.",
+    "start_time": 90.96,
+    "end_time": 96.96,
+    "start_frame": 2728,
+    "end_frame": 2908,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "So",
+        "ADV"
+      ],
+      [
+        "get",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "sifter",
+        "NOUN"
+      ],
+      [
+        "out",
+        "ADP"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "then",
+        "ADV"
+      ],
+      [
+        "add",
+        "VERB"
+      ],
+      [
+        "about",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "third",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "that",
+        "DET"
+      ],
+      [
+        "flour",
+        "NOUN"
+      ],
+      [
+        "mixture",
+        "NOUN"
+      ],
+      [
+        "at",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "time",
+        "NOUN"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "mixing",
+        "VERB"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "between",
+        "ADP"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 2,
+      "VERB": 3,
+      "DET": 4,
+      "NOUN": 5,
+      "ADP": 7,
+      "CCONJ": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "add",
+      "flour",
+      "mixture",
+      "time",
+      "mix"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 3.6363636363636362,
+    "word_count": 22,
+    "uses_emphasis_word": 1,
+    "imperative_type": "procedural",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.9565217391304346,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 5
+  },
+  {
+    "text": "Once you've got all of your dry ingredients well combined into the muffin batter, continue beating with your electric mixer as you slowly gradually add in four tablespoons of melted unsalted butter.",
+    "start_time": 106.96,
+    "end_time": 123.96,
+    "start_frame": 3208,
+    "end_frame": 3718,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Once",
+        "SCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "'ve",
+        "AUX"
+      ],
+      [
+        "got",
+        "VERB"
+      ],
+      [
+        "all",
+        "PRON"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "your",
+        "PRON"
+      ],
+      [
+        "dry",
+        "ADJ"
+      ],
+      [
+        "ingredients",
+        "NOUN"
+      ],
+      [
+        "well",
+        "ADV"
+      ],
+      [
+        "combined",
+        "VERB"
+      ],
+      [
+        "into",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "muffin",
+        "NOUN"
+      ],
+      [
+        "batter",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "continue",
+        "VERB"
+      ],
+      [
+        "beating",
+        "VERB"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "your",
+        "PRON"
+      ],
+      [
+        "electric",
+        "ADJ"
+      ],
+      [
+        "mixer",
+        "NOUN"
+      ],
+      [
+        "as",
+        "SCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "slowly",
+        "ADV"
+      ],
+      [
+        "gradually",
+        "ADV"
+      ],
+      [
+        "add",
+        "VERB"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "four",
+        "NUM"
+      ],
+      [
+        "tablespoons",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "melted",
+        "VERB"
+      ],
+      [
+        "unsalted",
+        "ADJ"
+      ],
+      [
+        "butter",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "SCONJ": 2,
+      "PRON": 5,
+      "AUX": 1,
+      "VERB": 6,
+      "ADP": 5,
+      "ADJ": 3,
+      "NOUN": 6,
+      "ADV": 3,
+      "DET": 1,
+      "PUNCT": 2,
+      "NUM": 1
+    },
+    "repeated_lemmas": [
+      "dry",
+      "ingredient",
+      "combine",
+      "muffin",
+      "batter",
+      "continue",
+      "beat",
+      "electric",
+      "mixer",
+      "slowly",
+      "add",
+      "tablespoon",
+      "unsalted",
+      "butter"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 5.0625,
+    "word_count": 32,
+    "uses_emphasis_word": 0,
+    "imperative_type": "directive",
+    "num_conjunctions": 0,
+    "subordinate_clauses": 5,
+    "avg_token_depth": 3.2857142857142856,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 1.2
+  },
+  {
+    "text": "Alright, now the last and final step is adding in those blueberries.",
+    "start_time": 129.96,
+    "end_time": 132.96,
+    "start_frame": 3898,
+    "end_frame": 3988,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Alright",
+        "INTJ"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "now",
+        "ADV"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "last",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "final",
+        "ADJ"
+      ],
+      [
+        "step",
+        "NOUN"
+      ],
+      [
+        "is",
+        "AUX"
+      ],
+      [
+        "adding",
+        "VERB"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "those",
+        "DET"
+      ],
+      [
+        "blueberries",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "INTJ": 1,
+      "PUNCT": 2,
+      "ADV": 1,
+      "DET": 2,
+      "ADJ": 2,
+      "CCONJ": 1,
+      "NOUN": 2,
+      "AUX": 1,
+      "VERB": 1,
+      "ADP": 1
+    },
+    "repeated_lemmas": [
+      "add",
+      "blueberry"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.583333333333333,
+    "word_count": 12,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 3.2142857142857144,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 2
+  },
+  {
+    "text": "And at this point you want to fold it in with a spatula.",
+    "start_time": 132.96,
+    "end_time": 135.96,
+    "start_frame": 3988,
+    "end_frame": 4078,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "And",
+        "CCONJ"
+      ],
+      [
+        "at",
+        "ADP"
+      ],
+      [
+        "this",
+        "DET"
+      ],
+      [
+        "point",
+        "NOUN"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "want",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "fold",
+        "VERB"
+      ],
+      [
+        "it",
+        "PRON"
+      ],
+      [
+        "in",
+        "ADV"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "spatula",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "CCONJ": 1,
+      "ADP": 2,
+      "DET": 2,
+      "NOUN": 2,
+      "PRON": 2,
+      "VERB": 2,
+      "PART": 1,
+      "ADV": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "want"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 3.3076923076923075,
+    "word_count": 13,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 1,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 2.357142857142857,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 1.0
+  },
+  {
+    "text": "Now line your muffin tin with cupcake liners and begin scooping the batter out using a large cookie scoop.",
+    "start_time": 136.96,
+    "end_time": 141.96,
+    "start_frame": 4108,
+    "end_frame": 4258,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Now",
+        "ADV"
+      ],
+      [
+        "line",
+        "VERB"
+      ],
+      [
+        "your",
+        "PRON"
+      ],
+      [
+        "muffin",
+        "NOUN"
+      ],
+      [
+        "tin",
+        "NOUN"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "cupcake",
+        "NOUN"
+      ],
+      [
+        "liners",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "begin",
+        "VERB"
+      ],
+      [
+        "scooping",
+        "VERB"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "batter",
+        "NOUN"
+      ],
+      [
+        "out",
+        "ADP"
+      ],
+      [
+        "using",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "large",
+        "ADJ"
+      ],
+      [
+        "cookie",
+        "NOUN"
+      ],
+      [
+        "scoop",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 1,
+      "VERB": 4,
+      "PRON": 1,
+      "NOUN": 7,
+      "ADP": 2,
+      "CCONJ": 1,
+      "DET": 2,
+      "ADJ": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "muffin",
+      "begin",
+      "batter",
+      "large"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.578947368421052,
+    "word_count": 19,
+    "uses_emphasis_word": 0,
+    "imperative_type": "procedural",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 1,
+    "avg_token_depth": 3.25,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 7.0
+  },
+  {
+    "text": "I like to top my blueberry muffins with a few extra blueberries on top, but that's totally optional.",
+    "start_time": 142.96,
+    "end_time": 147.96,
+    "start_frame": 4288,
+    "end_frame": 4438,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "like",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "top",
+        "VERB"
+      ],
+      [
+        "my",
+        "PRON"
+      ],
+      [
+        "blueberry",
+        "NOUN"
+      ],
+      [
+        "muffins",
+        "NOUN"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "few",
+        "ADJ"
+      ],
+      [
+        "extra",
+        "ADJ"
+      ],
+      [
+        "blueberries",
+        "NOUN"
+      ],
+      [
+        "on",
+        "ADP"
+      ],
+      [
+        "top",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "but",
+        "CCONJ"
+      ],
+      [
+        "that",
+        "PRON"
+      ],
+      [
+        "'s",
+        "AUX"
+      ],
+      [
+        "totally",
+        "ADV"
+      ],
+      [
+        "optional",
+        "ADJ"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 3,
+      "VERB": 2,
+      "PART": 1,
+      "NOUN": 4,
+      "ADP": 2,
+      "DET": 1,
+      "ADJ": 3,
+      "PUNCT": 2,
+      "CCONJ": 1,
+      "AUX": 1,
+      "ADV": 1
+    },
+    "repeated_lemmas": [
+      "like",
+      "blueberry",
+      "muffin",
+      "blueberry"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.388888888888889,
+    "word_count": 18,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 3.5238095238095237,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 1.3333333333333333
+  },
+  {
+    "text": "And before the muffins go into the oven, you want to make that simple streusel.",
+    "start_time": 148.96,
+    "end_time": 152.96,
+    "start_frame": 4468,
+    "end_frame": 4588,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "And",
+        "CCONJ"
+      ],
+      [
+        "before",
+        "SCONJ"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "muffins",
+        "NOUN"
+      ],
+      [
+        "go",
+        "VERB"
+      ],
+      [
+        "into",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "oven",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "want",
+        "VERB"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "make",
+        "VERB"
+      ],
+      [
+        "that",
+        "DET"
+      ],
+      [
+        "simple",
+        "ADJ"
+      ],
+      [
+        "streusel",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "CCONJ": 1,
+      "SCONJ": 1,
+      "DET": 3,
+      "NOUN": 3,
+      "VERB": 3,
+      "ADP": 1,
+      "PUNCT": 2,
+      "PRON": 1,
+      "PART": 1,
+      "ADJ": 1
+    },
+    "repeated_lemmas": [
+      "muffin",
+      "oven",
+      "want",
+      "simple",
+      "streusel"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.2,
+    "word_count": 15,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 1,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 2.5294117647058822,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 3.0
+  },
+  {
+    "text": "In a small bowl, combine one tablespoon of unsalted cold cubed butter, two tablespoons of all-purpose flour, a pinch of salt, a teaspoon of cinnamon, and three tablespoons of brown sugar.",
+    "start_time": 152.96,
+    "end_time": 164.96,
+    "start_frame": 4588,
+    "end_frame": 4948,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "In",
+        "ADP"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "small",
+        "ADJ"
+      ],
+      [
+        "bowl",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "combine",
+        "VERB"
+      ],
+      [
+        "one",
+        "NUM"
+      ],
+      [
+        "tablespoon",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "unsalted",
+        "ADJ"
+      ],
+      [
+        "cold",
+        "ADJ"
+      ],
+      [
+        "cubed",
+        "NOUN"
+      ],
+      [
+        "butter",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "two",
+        "NUM"
+      ],
+      [
+        "tablespoons",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "all",
+        "DET"
+      ],
+      [
+        "-",
+        "PUNCT"
+      ],
+      [
+        "purpose",
+        "NOUN"
+      ],
+      [
+        "flour",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "pinch",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "salt",
+        "NOUN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "teaspoon",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "cinnamon",
+        "PROPN"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "three",
+        "NUM"
+      ],
+      [
+        "tablespoons",
+        "NOUN"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "brown",
+        "ADJ"
+      ],
+      [
+        "sugar",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADP": 6,
+      "DET": 4,
+      "ADJ": 4,
+      "NOUN": 12,
+      "PUNCT": 7,
+      "VERB": 1,
+      "NUM": 3,
+      "PROPN": 1,
+      "CCONJ": 1
+    },
+    "repeated_lemmas": [
+      "bowl",
+      "combine",
+      "tablespoon",
+      "unsalted",
+      "butter",
+      "tablespoon",
+      "purpose",
+      "flour",
+      "salt",
+      "teaspoon",
+      "tablespoon",
+      "brown",
+      "sugar"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.6875,
+    "word_count": 32,
+    "uses_emphasis_word": 0,
+    "imperative_type": "procedural",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 3.6153846153846154,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 12
+  },
+  {
+    "text": "Mash that all together using a fork until the ingredients are well combined and they have a crumbly texture to them.",
+    "start_time": 165.96,
+    "end_time": 171.96,
+    "start_frame": 4978,
+    "end_frame": 5158,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Mash",
+        "NOUN"
+      ],
+      [
+        "that",
+        "SCONJ"
+      ],
+      [
+        "all",
+        "PRON"
+      ],
+      [
+        "together",
+        "ADV"
+      ],
+      [
+        "using",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "fork",
+        "NOUN"
+      ],
+      [
+        "until",
+        "SCONJ"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "ingredients",
+        "NOUN"
+      ],
+      [
+        "are",
+        "AUX"
+      ],
+      [
+        "well",
+        "ADV"
+      ],
+      [
+        "combined",
+        "ADJ"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "they",
+        "PRON"
+      ],
+      [
+        "have",
+        "VERB"
+      ],
+      [
+        "a",
+        "DET"
+      ],
+      [
+        "crumbly",
+        "ADJ"
+      ],
+      [
+        "texture",
+        "NOUN"
+      ],
+      [
+        "to",
+        "ADP"
+      ],
+      [
+        "them",
+        "PRON"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "NOUN": 4,
+      "SCONJ": 2,
+      "PRON": 3,
+      "ADV": 2,
+      "VERB": 2,
+      "DET": 3,
+      "AUX": 1,
+      "ADJ": 2,
+      "CCONJ": 1,
+      "ADP": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "ingredient"
+    ],
+    "is_repetition": true,
+    "has_imperative": 0,
+    "avg_word_length": 4.523809523809524,
+    "word_count": 21,
+    "uses_emphasis_word": 0,
+    "imperative_type": "none",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 2,
+    "avg_token_depth": 3.0454545454545454,
+    "filler_word_count": 1,
+    "noun_to_pronoun_ratio": 1.3333333333333333
+  },
+  {
+    "text": "Now top the blueberry muffins with the streusel topping and bake them in the oven at 350 degrees Fahrenheit for about 35 minutes.",
+    "start_time": 173.96,
+    "end_time": 180.96,
+    "start_frame": 5218,
+    "end_frame": 5428,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "Now",
+        "ADV"
+      ],
+      [
+        "top",
+        "VERB"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "blueberry",
+        "NOUN"
+      ],
+      [
+        "muffins",
+        "NOUN"
+      ],
+      [
+        "with",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "streusel",
+        "NOUN"
+      ],
+      [
+        "topping",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "bake",
+        "VERB"
+      ],
+      [
+        "them",
+        "PRON"
+      ],
+      [
+        "in",
+        "ADP"
+      ],
+      [
+        "the",
+        "DET"
+      ],
+      [
+        "oven",
+        "NOUN"
+      ],
+      [
+        "at",
+        "ADP"
+      ],
+      [
+        "350",
+        "NUM"
+      ],
+      [
+        "degrees",
+        "NOUN"
+      ],
+      [
+        "Fahrenheit",
+        "PROPN"
+      ],
+      [
+        "for",
+        "ADP"
+      ],
+      [
+        "about",
+        "ADV"
+      ],
+      [
+        "35",
+        "NUM"
+      ],
+      [
+        "minutes",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "ADV": 2,
+      "VERB": 2,
+      "DET": 3,
+      "NOUN": 7,
+      "ADP": 4,
+      "CCONJ": 1,
+      "PRON": 1,
+      "NUM": 2,
+      "PROPN": 1,
+      "PUNCT": 1
+    },
+    "repeated_lemmas": [
+      "blueberry",
+      "muffin",
+      "streusel",
+      "bake",
+      "oven",
+      "minute"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 4.809523809523809,
+    "word_count": 21,
+    "uses_emphasis_word": 0,
+    "imperative_type": "procedural",
+    "num_conjunctions": 2,
+    "subordinate_clauses": 0,
+    "avg_token_depth": 3.5416666666666665,
+    "filler_word_count": 0,
+    "noun_to_pronoun_ratio": 7.0
+  },
+  {
+    "text": "I hope you guys enjoyed watching this video and if you did please be sure to share, like, and subscribe to our channel so you guys never miss out on any of our new recipes. See you next time!",
+    "start_time": 180.96,
+    "end_time": 200.96,
+    "start_frame": 5428,
+    "end_frame": 6028,
+    "gesture_avg": 0,
+    "gesture_peak": 0,
+    "pos_tags": [
+      [
+        "I",
+        "PRON"
+      ],
+      [
+        "hope",
+        "VERB"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "guys",
+        "NOUN"
+      ],
+      [
+        "enjoyed",
+        "VERB"
+      ],
+      [
+        "watching",
+        "VERB"
+      ],
+      [
+        "this",
+        "DET"
+      ],
+      [
+        "video",
+        "NOUN"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "if",
+        "SCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "did",
+        "AUX"
+      ],
+      [
+        "please",
+        "INTJ"
+      ],
+      [
+        "be",
+        "AUX"
+      ],
+      [
+        "sure",
+        "ADJ"
+      ],
+      [
+        "to",
+        "PART"
+      ],
+      [
+        "share",
+        "VERB"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "like",
+        "ADP"
+      ],
+      [
+        ",",
+        "PUNCT"
+      ],
+      [
+        "and",
+        "CCONJ"
+      ],
+      [
+        "subscribe",
+        "VERB"
+      ],
+      [
+        "to",
+        "ADP"
+      ],
+      [
+        "our",
+        "PRON"
+      ],
+      [
+        "channel",
+        "NOUN"
+      ],
+      [
+        "so",
+        "SCONJ"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "guys",
+        "NOUN"
+      ],
+      [
+        "never",
+        "ADV"
+      ],
+      [
+        "miss",
+        "VERB"
+      ],
+      [
+        "out",
+        "ADP"
+      ],
+      [
+        "on",
+        "ADP"
+      ],
+      [
+        "any",
+        "PRON"
+      ],
+      [
+        "of",
+        "ADP"
+      ],
+      [
+        "our",
+        "PRON"
+      ],
+      [
+        "new",
+        "ADJ"
+      ],
+      [
+        "recipes",
+        "NOUN"
+      ],
+      [
+        ".",
+        "PUNCT"
+      ],
+      [
+        "See",
+        "VERB"
+      ],
+      [
+        "you",
+        "PRON"
+      ],
+      [
+        "next",
+        "ADJ"
+      ],
+      [
+        "time",
+        "NOUN"
+      ],
+      [
+        "!",
+        "PUNCT"
+      ]
+    ],
+    "pos_counts": {
+      "PRON": 8,
+      "VERB": 7,
+      "NOUN": 6,
+      "DET": 1,
+      "CCONJ": 2,
+      "SCONJ": 2,
+      "AUX": 2,
+      "INTJ": 1,
+      "ADJ": 3,
+      "PART": 1,
+      "PUNCT": 4,
+      "ADP": 5,
+      "ADV": 1
+    },
+    "repeated_lemmas": [
+      "guy",
+      "like",
+      "guy",
+      "time"
+    ],
+    "is_repetition": true,
+    "has_imperative": 1,
+    "avg_word_length": 3.8205128205128207,
+    "word_count": 39,
+    "uses_emphasis_word": 1,
+    "imperative_type": "procedural",
+    "num_conjunctions": 4,
+    "subordinate_clauses": 4,
+    "avg_token_depth": 3.186046511627907,
+    "filler_word_count": 2,
+    "noun_to_pronoun_ratio": 0.75
+  }
+]

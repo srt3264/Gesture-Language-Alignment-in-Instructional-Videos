@@ -5,3 +5,7 @@ scikit-learn
 numpy
 matplotlib
 git+https://github.com/openai/whisper.git
+cv2
+statsmodels
+mediapipe
+spaCy
